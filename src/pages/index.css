@@ -1,0 +1,24 @@
+.main-container {
+  display: flex;
+  align-items: center;
+  margin-top: 8em;
+  flex-direction: column;
+}
+
+.index-title-post {
+  color: #42210b;
+  font-family: Hattrick;
+  font-size: 65px;
+  font-weight: 400;
+}
+
+.index-description-post {
+  color: #42210b;
+  font-family: Aref Ruqaa Ink;
+  font-size: 20px;
+  font-weight: 400;
+}
+.index-header-container {
+  display: flex;
+  justify-content: space-between;
+}

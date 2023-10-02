@@ -4,6 +4,10 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import "./index.css"
+import Date from "./date"
+import PhotoCover from "./photoCover"
+import Photo from "./photoSwitzerland.jpg"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -24,39 +28,58 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Bio />
-      <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
+      <div className="main-container">
+        <Bio />
 
-          return (
-            <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                  <small>{post.frontmatter.date}</small>
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
-              </article>
-            </li>
-          )
-        })}
-      </ol>
+        <ol style={{ listStyle: `none` }}>
+          {posts.map(post => {
+            const title = post.frontmatter.title || post.fields.slug
+
+            return (
+              <li key={post.fields.slug}>
+                <article
+                  className="post-list-item"
+                  itemScope
+                  itemType="http://schema.org/Article"
+                >
+                  <header>
+                    <div className="index-header-container">
+                      <div>
+                        <h2>
+                          <Link
+                            to={post.fields.slug}
+                            itemProp="url"
+                            className="index-title-post"
+                          >
+                            <span itemProp="headline">{title}</span>
+                          </Link>
+                        </h2>
+                      </div>
+                      <div>
+                        <Date month={post.frontmatter.date} />
+                      </div>
+                    </div>
+
+                    {/* <small>{post.frontmatter.date}</small> */}
+                  </header>
+
+                  <PhotoCover image={Photo} />
+
+                  <section>
+                    <p
+                      className="index-description-post"
+                      dangerouslySetInnerHTML={{
+                        __html: post.frontmatter.description || post.excerpt,
+                      }}
+                      itemProp="description"
+                    />
+                  </section>
+                </article>
+              </li>
+            )
+          })}
+        </ol>
+      </div>
     </Layout>
   )
 }
