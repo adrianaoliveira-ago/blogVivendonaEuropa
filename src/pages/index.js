@@ -5,31 +5,17 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import "./index.css"
-import Date from "./date"
-import PhotoCover from "./photoCover"
-import Photo from "./photoSwitzerland.jpg"
+import Date from "../components/date"
+import PhotoCover from "../components/photoCover"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <Bio />
-        <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
-        </p>
-      </Layout>
-    )
-  }
-
   return (
     <Layout location={location} title={siteTitle}>
       <div className="main-container">
-        <Bio />
+        {/* <Bio /> */}
 
         <ol style={{ listStyle: `none` }}>
           {posts.map(post => {
@@ -57,13 +43,12 @@ const BlogIndex = ({ data, location }) => {
                       </div>
                       <div>
                         <Date month={post.frontmatter.date} />
+                        {/* <small>{post.frontmatter.date}</small> */}
                       </div>
                     </div>
-
-                    {/* <small>{post.frontmatter.date}</small> */}
                   </header>
 
-                  <PhotoCover image={Photo} />
+                  <PhotoCover image={post.frontmatter.featuredImage} />
 
                   <section>
                     <p
@@ -110,6 +95,11 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          featuredImage {
+            childImageSharp {
+              gatsbyImageData(width: 1240)
+            }
+          }
         }
       }
     }

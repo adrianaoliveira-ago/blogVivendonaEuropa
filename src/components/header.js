@@ -24,11 +24,12 @@ const NavLinks = () => {
       link: "https://www.linkedin.com/in/adriana-gonzaga-abbb58b4/",
     },
   ]
+
   return (
-    <div className="nav-map-links ">
+    <div className="nav-map-links">
       {headerlinks.map(item => {
         return (
-          <li className="nav-items ">
+          <li className="nav-items">
             <a href={item.link} target="_blank">
               <span>{item.name}</span>
             </a>
@@ -49,13 +50,13 @@ const Header = () => {
       <div className="div-header">
         <NavLinks />
       </div>
+
       <div className="div-header-wave" />
 
       <div className="div-logo">
         <img src={logoVP}></img>
       </div>
     </div>
-    //   return <HeaderWave />
   )
 }
 

@@ -1,0 +1,4 @@
+.photo-cover-container {
+  height: 300px;
+  object-fit: cover;
+}
