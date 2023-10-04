@@ -2,6 +2,7 @@
 title: Travel to Vienna and Bratislava
 date: "2023-08-30T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+featuredImage: ./ibiza.webp
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and

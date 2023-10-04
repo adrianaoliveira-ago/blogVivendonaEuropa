@@ -1,6 +1,7 @@
 .date-container {
   font-family: Hattrick;
-  font-size: 65px;
+  /* font-size: 65px; */
   font-weight: 400;
   color: #42210b;
+  font-size: 30px;
 }

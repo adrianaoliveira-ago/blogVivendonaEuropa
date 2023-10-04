@@ -1,14 +1,18 @@
 .main-container {
   display: flex;
   align-items: center;
-  margin-top: 8em;
+  /* margin-top: 8em; */
   flex-direction: column;
+}
+
+.main-container > ol > li {
+  margin-bottom: var(--spacing-12);
 }
 
 .index-title-post {
   color: #42210b;
   font-family: Hattrick;
-  font-size: 65px;
+  font-size: 40px;
   font-weight: 400;
 }
 
@@ -21,4 +25,5 @@
 .index-header-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }

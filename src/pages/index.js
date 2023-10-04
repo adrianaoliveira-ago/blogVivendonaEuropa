@@ -1,12 +1,14 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
+// import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import "./index.css"
 import Date from "../components/date"
 import PhotoCover from "../components/photoCover"
+import AboutMe from "../components/aboutMe"
+import SeparatorImage from "../components/separatorImage"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -16,6 +18,8 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <div className="main-container">
         {/* <Bio /> */}
+        <AboutMe />
+        <SeparatorImage />
 
         <ol style={{ listStyle: `none` }}>
           {posts.map(post => {
@@ -28,25 +32,18 @@ const BlogIndex = ({ data, location }) => {
                   itemScope
                   itemType="http://schema.org/Article"
                 >
-                  <header>
-                    <div className="index-header-container">
-                      <div>
-                        <h2>
-                          <Link
-                            to={post.fields.slug}
-                            itemProp="url"
-                            className="index-title-post"
-                          >
-                            <span itemProp="headline">{title}</span>
-                          </Link>
-                        </h2>
-                      </div>
-                      <div>
-                        <Date month={post.frontmatter.date} />
-                        {/* <small>{post.frontmatter.date}</small> */}
-                      </div>
-                    </div>
-                  </header>
+                  <div className="index-header-container">
+                    <h2>
+                      <Link
+                        to={post.fields.slug}
+                        itemProp="url"
+                        className="index-title-post"
+                      >
+                        <span itemProp="headline">{title}</span>
+                      </Link>
+                    </h2>
+                    <Date month={post.frontmatter.date} />
+                  </div>
 
                   <PhotoCover image={post.frontmatter.featuredImage} />
 

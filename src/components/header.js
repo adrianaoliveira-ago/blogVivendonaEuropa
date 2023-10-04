@@ -46,7 +46,7 @@ const NavLinks = () => {
 
 const Header = () => {
   return (
-    <div>
+    <header>
       <div className="div-header">
         <NavLinks />
       </div>
@@ -56,7 +56,7 @@ const Header = () => {
       <div className="div-logo">
         <img src={logoVP}></img>
       </div>
-    </div>
+    </header>
   )
 }
 

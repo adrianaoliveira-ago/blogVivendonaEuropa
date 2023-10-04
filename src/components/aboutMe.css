@@ -1,8 +1,13 @@
 .about-me-container {
   display: flex;
   flex-direction: column;
-  padding: 0 500px 0 500px;
-  margin-top: 5em;
+  align-items: center;
+  /* margin-top: 5em; */
+  /* padding: 0 800px 0 800px; */
+}
+
+.about-me-container > * {
+  width: 1240px;
 }
 
 .about-me-title {
