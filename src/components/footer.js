@@ -12,9 +12,9 @@ const FooterWave = () => {
       <div className="footer-conatainer">
         <div className="footer-container-wave"></div>
         <div>
-          <img src={IconYoutube}></img>
+          {/* <img src={IconYoutube}></img>
           <img src={IconInstagram}></img>
-          <img src={IconFacebook}></img>
+          <img src={IconFacebook}></img> */}
         </div>
       </div>
     </footer>
