@@ -7,4 +7,14 @@ footer {
   background-repeat: repeat-x;
   height: 6em;
   /* transform: rotateX(180deg); */
+  display: flex;
+  align-items: center;
+}
+
+.footer-social {
+  display: flex;
+  height: 25px;
+  gap: 20px;
+  margin-left: 20px;
+  margin-top: 30px;
 }

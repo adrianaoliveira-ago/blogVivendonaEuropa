@@ -10,11 +10,12 @@ const FooterWave = () => {
   return (
     <footer>
       <div className="footer-conatainer">
-        <div className="footer-container-wave"></div>
-        <div>
-          {/* <img src={IconYoutube}></img>
-          <img src={IconInstagram}></img>
-          <img src={IconFacebook}></img> */}
+        <div className="footer-container-wave">
+          <div className="footer-social">
+            <img src={IconYoutube}></img>
+            <img src={IconInstagram}></img>
+            <img src={IconFacebook}></img>
+          </div>
         </div>
       </div>
     </footer>

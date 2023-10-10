@@ -43,6 +43,9 @@ const NavLinks = () => {
 // function goToHomePage() {
 //   location.href = "/"
 // }
+const goToHomePage = () => {
+  location.href = "/"
+}
 
 const Header = () => {
   return (
@@ -54,7 +57,7 @@ const Header = () => {
       <div className="div-header-wave" />
 
       <div className="div-logo">
-        <img src={logoVP}></img>
+        <img src={logoVP} onClick={goToHomePage}></img>
       </div>
     </header>
   )
