@@ -5,7 +5,6 @@ import "./photoCover.css"
 
 const PhotoCover = ({ image }) => {
   const featuredImg = getImage(image?.childImageSharp?.gatsbyImageData)
-  console.log(image, featuredImg)
 
   return (
     <GatsbyImage

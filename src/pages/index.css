@@ -9,7 +9,11 @@
   margin-bottom: var(--spacing-12);
 }
 
-.index-title-post {
+.index-link-post {
+  text-decoration: none;
+}
+
+.index-title {
   color: #42210b;
   font-family: Hattrick;
   font-size: 40px;

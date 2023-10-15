@@ -3,9 +3,9 @@ footer {
 }
 
 .footer-container-wave {
-  background-image: url(/footerWave.svg);
+  background-image: url(/footerWave2.svg);
   background-repeat: repeat-x;
-  height: 6em;
+  height: 8em;
   /* transform: rotateX(180deg); */
   display: flex;
   align-items: center;
