@@ -32,30 +32,31 @@ const BlogIndex = ({ data, location }) => {
                   itemScope
                   itemType="http://schema.org/Article"
                 >
-                  <div className="index-header-container">
-                    <h2>
-                      <Link
-                        to={post.fields.slug}
-                        itemProp="url"
-                        className="index-title-post"
-                      >
-                        <span itemProp="headline">{title}</span>
-                      </Link>
-                    </h2>
-                    <Date month={post.frontmatter.date} />
-                  </div>
+                  <Link
+                    to={post.fields.slug}
+                    itemProp="url"
+                    className="index-link-post"
+                  >
+                    <div className="index-header-container">
+                      <h2 className="index-title">
+                        {title}
+                        {/* <span itemProp="headline"></span> */}
+                      </h2>
+                      <Date month={post.frontmatter.date} />
+                    </div>
 
-                  <PhotoCover image={post.frontmatter.featuredImage} />
+                    <PhotoCover image={post.frontmatter.featuredImage} />
 
-                  <section>
-                    <p
-                      className="index-description-post"
-                      dangerouslySetInnerHTML={{
-                        __html: post.frontmatter.description || post.excerpt,
-                      }}
-                      itemProp="description"
-                    />
-                  </section>
+                    <section>
+                      <p
+                        className="index-description-post"
+                        dangerouslySetInnerHTML={{
+                          __html: post.frontmatter.description || post.excerpt,
+                        }}
+                        itemProp="description"
+                      />
+                    </section>
+                  </Link>
                 </article>
               </li>
             )

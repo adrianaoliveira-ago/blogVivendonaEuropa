@@ -5,7 +5,7 @@
 }
 
 .div-header-wave {
-  background-image: url(/headerWave2.svg);
+  background-image: url(/headerWave.svg);
   background-repeat: repeat-x;
   height: 11em;
 }
@@ -16,7 +16,7 @@
   justify-content: center;
   top: 0;
   width: 100%;
-  margin-top: 14px;
+  margin-top: 4em;
 }
 
 .nav-map-links {

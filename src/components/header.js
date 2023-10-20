@@ -1,5 +1,6 @@
 import * as React from "react"
 import "./header.css"
+// import { Link } from "gatsby"
 
 import logoVP from "./logo-vivendo-na-europa.svg"
 
@@ -40,11 +41,8 @@ const NavLinks = () => {
   )
 }
 
-// function goToHomePage() {
-//   location.href = "/"
-// }
 const goToHomePage = () => {
-  location.href = "/"
+  window.location.href = "/"
 }
 
 const Header = () => {
