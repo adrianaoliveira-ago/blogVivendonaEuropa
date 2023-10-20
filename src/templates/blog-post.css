@@ -30,9 +30,25 @@
   padding-top: 2em;
 }
 
+.blog-post-section h2,
+h3,
+h5,
+h6 {
+  color: #42210b;
+  font-family: Hattrick;
+  font-size: 40px;
+  font-weight: 400;
+}
+
+.blog-post-section p {
+  color: #42210b;
+  font-family: Aref Ruqaa Ink;
+  font-size: 24px;
+}
+
 .videos-wrapper {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   align-items: center;
   gap: 1em;
 }

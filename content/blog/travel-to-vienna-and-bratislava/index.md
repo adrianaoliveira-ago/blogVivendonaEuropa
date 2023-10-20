@@ -111,9 +111,9 @@ for their projects again and again.
 ![GATSBY_EMPTY_ALT](./separator.png)
 
 <div class="videos-wrapper">
-  <iframe width="500" height="300" src="https://www.youtube.com/embed/sIkCmta2SvE?si=KFXPNUPDDeDKZ2nY" title="YouTube video player" frameborder="0" allow="" allowfullscreen></iframe>
+  <iframe width="500" height="230" src="https://www.youtube.com/embed/sIkCmta2SvE?si=KFXPNUPDDeDKZ2nY" title="YouTube video player" frameborder="0" allow="" allowfullscreen></iframe>
 
-  <iframe width="500" height="300" src="https://www.youtube.com/embed/sIkCmta2SvE?si=KFXPNUPDDeDKZ2nY" title="YouTube video player" frameborder="0" allow="" allowfullscreen></iframe>
+  <iframe width="500" height="230" src="https://www.youtube.com/embed/sIkCmta2SvE?si=KFXPNUPDDeDKZ2nY" title="YouTube video player" frameborder="0" allow="" allowfullscreen></iframe>
 
-  <iframe width="500" height="300" src="https://www.youtube.com/embed/sIkCmta2SvE?si=KFXPNUPDDeDKZ2nY" title="YouTube video player" frameborder="0" allow="" allowfullscreen></iframe>
+  <iframe width="500" height="230" src="https://www.youtube.com/embed/sIkCmta2SvE?si=KFXPNUPDDeDKZ2nY" title="YouTube video player" frameborder="0" allow="" allowfullscreen></iframe>
 </div>
