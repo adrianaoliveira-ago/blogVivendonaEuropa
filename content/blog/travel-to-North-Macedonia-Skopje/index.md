@@ -1,15 +1,11 @@
 ---
 title: Travel to North Macedona | Skopje
 date: "2023-10-06T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+description: Visit Skopje for its captivating blend of historical architecture, vibrant culture, and scenic beauty in the heart of North Macedonia.
 featuredImage: ./coverNorthMacedonia.jpg
 ---
 
-Skopje is the capital of North Macedonia, a country located in the center of the Balkan Peninsula. It is a lush, green city where gourmet food, drinks, traditions and culture are part of everyday life. No matter how many times
-
-&nbsp;
-
-you visit Skopje, there will always be something new and exciting to see or do.
+Skopje is the capital of North Macedonia, a country located in the center of the Balkan Peninsula. It is a lush, green city where gourmet food, drinks, traditions and culture are part of everyday life. No matter how many times you visit Skopje, there will always be something new and exciting to see or do.
 
 &nbsp;
 
@@ -37,13 +33,27 @@ way. On her way she met a copy. -->
 
 ![GATSBY_EMPTY_ALT](./alexanderTheGreat.jpg)
 
+<div class="container-icons">
+
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+
+<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+
+</div>
+
+<div class="container-information">
+
 [Statue of Alexander the Great](https://maps.app.goo.gl/xEABzLfyHrNY39TR6)
 
-Free
+</div>
+
+</div>
 
 ### A Thematic Friends Cafe
 
-Another place you can visit is The Friends Cafe Thematic. It's not the usual itinerary because the cafe is not near the other sightseeing spots. I truly recommend this place because it's very nice, and you should not miss it if you have the time to go there.
+Another place you can visit is **The Friends Cafe Thematic**. It's not the usual itinerary because the cafe is not near the other sightseeing spots. I truly recommend this place because it's very nice, and you should not miss it if you have the time to go there.
 
 &nbsp;
 
@@ -52,7 +62,7 @@ You can get there on foot, and it will take you around 30 minutes. Enjoy the cit
 
 <div class="container-icons">
 
-<div class="gatsby-resp-image-wrapper">
+<div class="container-icons-imagens">
 
 ![GATSBY_EMPTY_ALT](./iconLocation.png)
 ![GATSBY_EMPTY_ALT](./iconClock.png)
@@ -73,7 +83,7 @@ You can get there on foot, and it will take you around 30 minutes. Enjoy the cit
 
 ### The Old Bazar
 
-Spend time in the Old Bazaar; it's a place where you can walk all day and get lost in every single alley. You can find everything in this place, but keep in mind the time because it's quite large, and you can easily lose track of time.
+Spend time in the **Old Bazaar**; it's a place where you can walk all day and get lost in every single alley. You can find everything in this place, but keep in mind the time because it's quite large, and you can easily lose track of time.
 
 &nbsp;
 
@@ -83,13 +93,30 @@ The Old Bazaar is one of Skopje's most popular attractions, filled with vibrant 
 
 You can find the best and most diverse collections of Ottoman architecture in this area because it used to be a significant trading center during the Ottoman period.
 
-📍 [The Old Bazar] https://maps.app.goo.gl/KKcxR8mNVWjCJNUaA
+<div class="container-icons">
 
-🎟 Free
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./iconTicket.png)
+
+<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+
+</div>
+
+<div class="container-information">
+
+[The Old Bazar](https://maps.app.goo.gl/KKcxR8mNVWjCJNUaA)
+
+Free
+
+</div>
+
+</div>
 
 ##### Vodno Mountain
 
-The view from Vodno is incredible. I recommend taking a tour to go there because it's a place you have to visit.
+The view from **Vodno** is incredible. I recommend taking a tour to go there because it's a place you have to visit.
 
 &nbsp;
 
@@ -105,13 +132,30 @@ Overall, Vodno is a great place for a picnic or to spend the day in Skopje. It's
 
 &nbsp;
 
-📍 [Vodno Mountain] https://maps.app.goo.gl/Hzsz8cJaJEBJRui87
+<div class="container-icons">
 
-🎟 Free
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./iconTicket.png)
+
+<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+
+</div>
+
+<div class="container-information">
+
+[Vodno Mountain](https://maps.app.goo.gl/Hzsz8cJaJEBJRui87)
+
+[Tour Get Your Guide](https://gyg.me/yERID53M)
+
+</div>
+
+</div>
 
 ##### The Mother Teresa Memorial House
 
-The Mother Teresa Memorial House is a place you can visit for free, and it's a great place to spend some time. Inside, you can find a small house with many stories. It's not big, and you can see everything in about 30 minutes.
+**The Mother Teresa Memorial House** is a place you can visit for free, and it's a great place to spend some time. Inside, you can find a small house with many stories. It's not big, and you can see everything in about 30 minutes.
 
 &nbsp;
 
@@ -123,15 +167,33 @@ Inside, you'll find memorabilia, photos, and documents that chronicle her work a
 
 &nbsp;
 
-📍 [The Mother Teresa Memorial House] https://maps.app.goo.gl/u55AEw9jmyvR8etY9
+<div class="container-icons">
 
-🎟 Free
+<div class="container-icons-imagens">
 
-⏰ Monday – Friday 09:00 – 20:00. /. Saturday – Sunday 09:00 – 14:00
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./iconTicket.png)
+![GATSBY_EMPTY_ALT](./iconClock.png)
+
+<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+
+</div>
+
+<div class="container-information">
+
+[The Mother Teresa Memorial House](https://maps.app.goo.gl/u55AEw9jmyvR8etY9)
+
+Free
+
+Monday – Friday 09:00 – 20:00 / Saturday – Sunday 09:00 – 14:00
+
+</div>
+
+</div>
 
 ###### Stone Bridge
 
-The Stone Bridge is crowded because it connects both sides of Skopje, the old city, and the new city. The old city is the Old Bazaar, and in the new city, you can find the Main Square. Walking across the bridge, you can enjoy the view of the Vardar River.
+The **Stone Bridge** is crowded because it connects both sides of Skopje, the old city, and the new city. The old city is the Old Bazaar, and in the new city, you can find the Main Square. Walking across the bridge, you can enjoy the view of the Vardar River.
 
 &nbsp;
 
@@ -139,11 +201,27 @@ It was first built under the rule of the Roman emperor Justinian but was destroy
 
 &nbsp;
 
-📍 [Stone Bridge] https://maps.app.goo.gl/3bqbcxkyAybL16sK7
+<div class="container-icons">
+
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+
+<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+
+</div>
+
+<div class="container-information">
+
+[Stone Bridge](https://maps.app.goo.gl/3bqbcxkyAybL16sK7)
+
+</div>
+
+</div>
 
 ###### The Art Bridge
 
-The Art Bridge is another sight you can see from the Stone Bridge. I recommend visiting it at night because the lights are on, and you can enjoy the view from the Art Bridge better. You can also spot a large boat that functions as a restaurant.
+**The Art Bridge** is another sight you can see from the Stone Bridge. I recommend visiting it at night because the lights are on, and you can enjoy the view from the Art Bridge better. You can also spot a large boat that functions as a restaurant.
 
 &nbsp;
 
@@ -151,11 +229,25 @@ The Art Bridge was built in 2014 as part of the Skopje 2014 project.
 
 &nbsp;
 
-📍 [The Art Bridge] https://maps.app.goo.gl/951nBrZxr9oDZz5X7
+<div class="container-icons">
+
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+
+</div>
+
+<div class="container-information">
+
+[The Art Bridge](https://maps.app.goo.gl/951nBrZxr9oDZz5X7)
+
+</div>
+
+</div>
 
 ###### The Skopje Fortress
 
-The Skopje Fortress is another place you can visit for free. You can walk on the walls and enjoy the city view. However, be aware that it's not a safe place because it lacks maintenance, and you may find many loose bricks.
+**The Skopje Fortress** is another place you can visit for free. You can walk on the walls and enjoy the city view. However, be aware that it's not a safe place because it lacks maintenance, and you may find many loose bricks.
 
 &nbsp;
 
@@ -167,15 +259,33 @@ The lighting of Kale Fortress provides a peaceful and serene dignity at night.
 
 &nbsp;
 
-📍 [The Skopje Fortress] https://maps.app.goo.gl/MDsVCDM3gYRo6Ptx8
+<div class="container-icons">
 
-🎟 Free
+<div class="container-icons-imagens">
 
-⏰ Monday – Friday 09:00am – 7:00pm
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./iconTicket.png)
+![GATSBY_EMPTY_ALT](./iconClock.png)
+
+<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+
+</div>
+
+<div class="container-information">
+
+[The Skopje Fortress](https://maps.app.goo.gl/MDsVCDM3gYRo6Ptx8)
+
+Free
+
+Monday – Friday 09:00am – 7:00pm
+
+</div>
+
+</div>
 
 ###### Skopje City Park
 
-Skopje City Park is a green place you can visit when you have some free time. It's a vast park where you can have a great day. Enjoy the lake and take in the surroundings; the people are really nice.
+**Skopje City Park** is a green place you can visit when you have some free time. It's a vast park where you can have a great day. Enjoy the lake and take in the surroundings; the people are really nice.
 
 &nbsp;
 
@@ -187,11 +297,25 @@ Nearby is the Skopje Zoo, and the ticket costs only 1 euro. If you enjoy this to
 
 &nbsp;
 
-📍 [Skopje City Park] https://maps.app.goo.gl/x41SaQ3ixKb69xM56
+<div class="container-icons">
+
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+
+</div>
+
+<div class="container-information">
+
+[Skopje City Park](https://maps.app.goo.gl/x41SaQ3ixKb69xM56)
+
+</div>
+
+</div>
 
 ###### Parque Mulher Guerreira
 
-The Woman Warrior Park is a large park where you can find many sculptures, including the Woman Warrior. Everything is located nearby, making it easy to find this park.
+The **Woman Warrior Park** is a large park where you can find many sculptures, including the Woman Warrior. Everything is located nearby, making it easy to find this park.
 
 &nbsp;
 
@@ -199,11 +323,25 @@ There are many monuments here, including the Woman Warrior monument placed in 19
 
 &nbsp;
 
-📍[Skopje City Park] https://maps.app.goo.gl/PhY4CVfLzCP3rxML8
+<div class="container-icons">
+
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+
+</div>
+
+<div class="container-information">
+
+[Skopje City Park](https://maps.app.goo.gl/PhY4CVfLzCP3rxML8)
+
+</div>
+
+</div>
 
 ###### Macedonia Gate
 
-The Macedonia Gate is a grand monument located near the main square where Alexander the Great is honoured. Pay attention to every single detail on the gate, and you'll discover the history behind the art on its walls.
+The **Macedonia Gate** is a grand monument located near the main square where Alexander the Great is honoured. Pay attention to every single detail on the gate, and you'll discover the history behind the art on its walls.
 
 &nbsp;
 
@@ -215,7 +353,21 @@ Walk around the arch to admire the artworks in alabaster and gold, or you can en
 
 &nbsp;
 
-📍 [Macedonia Gate] https://maps.app.goo.gl/zb5SuDfmkPgHqHUKA
+<div class="container-icons">
+
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+
+</div>
+
+<div class="container-information">
+
+[Macedonia Gate](https://maps.app.goo.gl/zb5SuDfmkPgHqHUKA)
+
+</div>
+
+</div>
 
 ###### Mustafa Paša
 
@@ -223,7 +375,7 @@ It was a great experience to visit this place; unfortunately, it was closed when
 
 &nbsp;
 
-Remember to cover your hair and body before entering the mosque.
+Remember to cover your hair and body before entering the **Mosque**.
 
 &nbsp;
 
@@ -235,11 +387,30 @@ In a word, the design is elegant, with all the alabaster domes, beautiful founta
 
 &nbsp;
 
-📍[Mustafa Paša] https://maps.app.goo.gl/tvuMFroru3uPj5aF9
+<div class="container-icons">
 
-🎟 Free
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./iconTicket.png)
+
+</div>
+
+<div class="container-information">
+
+[Mustafa Paša](https://maps.app.goo.gl/tvuMFroru3uPj5aF9)
+
+Free
+
+</div>
+
+</div>
+
+&nbsp;
 
 ![GATSBY_EMPTY_ALT](./separator2.png)
+
+&nbsp;
 
 <div class="videos-wrapper">
  <iframe width="500" height="280" src="https://www.youtube.com/embed/tp9imBs010o?si=Glyxx9wPYaHYmeJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
