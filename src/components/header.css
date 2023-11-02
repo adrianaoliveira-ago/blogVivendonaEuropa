@@ -36,3 +36,25 @@
   list-style: none;
   margin-top: 4px;
 }
+
+@media only screen and (max-width: 600px) {
+  .div-logo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .icon-logo {
+    width: 300px;
+  }
+  .nav-map-links > li > a {
+    font-size: 20px;
+  }
+  .div-header {
+    height: 34px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .icon-logo {
+    width: 300px;
+  }
+}

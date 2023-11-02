@@ -6,7 +6,6 @@ featuredImage: ./coverNorthMacedonia.jpg
 ---
 
 Skopje is the capital of North Macedonia, a country located in the center of the Balkan Peninsula. It is a lush, green city where gourmet food, drinks, traditions and culture are part of everyday life. No matter how many times you visit Skopje, there will always be something new and exciting to see or do.
-
 &nbsp;
 
 Enjoy every single moment in Skopje; you will fall in love.
@@ -31,7 +30,9 @@ way. On her way she met a copy. -->
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./alexanderTheGreat.jpg)
+![GATSBY_EMPTY_ALT](./alexanderTheGreat2.jpg)
+
+&nbsp;
 
 <div class="container-icons">
 
@@ -93,6 +94,8 @@ The Old Bazaar is one of Skopje's most popular attractions, filled with vibrant 
 
 You can find the best and most diverse collections of Ottoman architecture in this area because it used to be a significant trading center during the Ottoman period.
 
+&nbsp;
+
 <div class="container-icons">
 
 <div class="container-icons-imagens">
@@ -113,6 +116,8 @@ Free
 </div>
 
 </div>
+
+&nbsp;
 
 ##### Vodno Mountain
 
@@ -313,7 +318,7 @@ Nearby is the Skopje Zoo, and the ticket costs only 1 euro. If you enjoy this to
 
 </div>
 
-###### Parque Mulher Guerreira
+###### Woman Warrior Park
 
 The **Woman Warrior Park** is a large park where you can find many sculptures, including the Woman Warrior. Everything is located nearby, making it easy to find this park.
 
@@ -413,7 +418,13 @@ Free
 &nbsp;
 
 <div class="videos-wrapper">
- <iframe width="500" height="280" src="https://www.youtube.com/embed/tp9imBs010o?si=Glyxx9wPYaHYmeJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="500" height="280" src="https://www.youtube.com/embed/tp9imBs010o?si=Glyxx9wPYaHYmeJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="videos-iframe"></iframe>
 
-<iframe width="500" height="280" src="https://www.youtube.com/embed/7jp-bgVDx-U?si=OB-E9PshdRPKzb5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="500" height="280" src="https://www.youtube.com/embed/7jp-bgVDx-U?si=OB-E9PshdRPKzb5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="videos-iframe"></iframe>
 </div>
+
+&nbsp;
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-excluded-tour-ids="" data-gyg-partner-id="3K1OV70" data-gyg-tour-ids="79310,465054,180203"></div>
+
+&nbsp;

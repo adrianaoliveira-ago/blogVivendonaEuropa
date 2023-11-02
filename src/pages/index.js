@@ -9,6 +9,7 @@ import Date from "../components/date"
 import PhotoCover from "../components/photoCover"
 import AboutMe from "../components/aboutMe"
 import SeparatorImage from "../components/separatorImage"
+import Snow from "../components/snow"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -57,6 +58,7 @@ const BlogIndex = ({ data, location }) => {
                       />
                     </section>
                   </Link>
+                  <Snow />
                 </article>
               </li>
             )

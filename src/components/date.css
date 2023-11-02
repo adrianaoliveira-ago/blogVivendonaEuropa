@@ -5,3 +5,10 @@
   color: #42210b;
   font-size: 30px;
 }
+
+@media only screen and (max-width: 800px) {
+  .date-container {
+    font-size: 20px;
+    margin-left: 10px;
+  }
+}

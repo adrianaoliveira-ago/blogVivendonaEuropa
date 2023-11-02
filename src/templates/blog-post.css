@@ -43,7 +43,7 @@ h6 {
 .blog-post-section p {
   color: #42210b;
   font-family: Aref Ruqaa Ink !important;
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: 8px;
 }
 
@@ -67,10 +67,12 @@ h6 {
 
 .container-icons-imagens {
   position: relative;
-  /* display: flex !important; */
-  width: 39px !important;
+  width: 36px !important;
   background-image: none;
   margin-right: 0.5em;
+  margin-top: 6px;
+  display: grid;
+  align-items: center;
 }
 
 .container-icons {
@@ -83,13 +85,46 @@ h6 {
 }
 
 .container-information {
-  /* margin-bottom: 8px;
-  background: rgba(252, 185, 170, 0.5);
-  width: 100%;
-  border-radius: 8px;
-  padding-left: 12px; */
+  margin-top: 8px;
 }
 
 .gatsby-resp-image-image {
   box-shadow: none !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .videos-iframe {
+    width: 300px;
+    height: 160px;
+    display: grid;
+  }
+
+  .videos-wrapper {
+    display: grid;
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 1000px) {
+  .videos-wrapper {
+    display: grid;
+    justify-content: center;
+  }
+  .blog-post header h1 {
+    font-size: 35px;
+    margin-left: 10px;
+  }
+  .blog-post-section h2,
+  h3,
+  h5,
+  h6 {
+    font-size: 35px;
+    margin-left: 10px;
+  }
+  .blog-post-section p {
+    font-size: 18px;
+    margin: 10px;
+  }
+  .container-icons-imagens {
+    width: 52px !important;
+  }
 }

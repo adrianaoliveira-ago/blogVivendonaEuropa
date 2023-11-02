@@ -55,7 +55,7 @@ const Header = () => {
       <div className="div-header-wave" />
 
       <div className="div-logo">
-        <img src={logoVP} onClick={goToHomePage}></img>
+        <img src={logoVP} onClick={goToHomePage} className="icon-logo"></img>
       </div>
     </header>
   )

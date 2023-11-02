@@ -8,6 +8,7 @@ import Date from "../components/date"
 
 import "./blog-post.css"
 import PhotoCover from "../components/photoCover"
+import Snow from "../components/snow"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -19,6 +20,7 @@ const BlogPostTemplate = ({
   return (
     <Layout location={location} title={siteTitle}>
       <div className="blog-post-container">
+        <Snow />
         <article
           className="blog-post"
           itemScope
@@ -72,10 +74,19 @@ const BlogPostTemplate = ({
 
 export const Head = ({ data: { markdownRemark: post } }) => {
   return (
-    <Seo
-      title={post.frontmatter.title}
-      description={post.frontmatter.description || post.excerpt}
-    />
+    <>
+      <Seo
+        title={post.frontmatter.title}
+        description={post.frontmatter.description || post.excerpt}
+      />
+
+      <script
+        async
+        defer
+        src="https://widget.getyourguide.com/dist/pa.umd.production.min.js"
+        data-gyg-partner-id="3K1OV70"
+      ></script>
+    </>
   )
 }
 
