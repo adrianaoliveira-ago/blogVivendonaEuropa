@@ -30,7 +30,9 @@ way. On her way she met a copy. -->
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./alexanderTheGreat2.jpg)
+<img src="./alexanderTheGreat5.jpg" alt="My image" max-width="200px"/>
+
+<!-- ![GATSBY_EMPTY_ALT](./alexanderTheGreat5.jpg) -->
 
 &nbsp;
 
@@ -59,6 +61,11 @@ Another place you can visit is **The Friends Cafe Thematic**. It's not the usual
 &nbsp;
 
 You can get there on foot, and it will take you around 30 minutes. Enjoy the city and its streets as you walk to the thematic cafe.
+
+&nbsp;
+
+![GATSBY_EMPTY_ALT](./friendsCafe.jpg)
+
 &nbsp;
 
 <div class="container-icons">
@@ -96,14 +103,16 @@ You can find the best and most diverse collections of Ottoman architecture in th
 
 &nbsp;
 
+![GATSBY_EMPTY_ALT](./oldBazar.jpg)
+
+&nbsp;
+
 <div class="container-icons">
 
 <div class="container-icons-imagens">
 
 ![GATSBY_EMPTY_ALT](./iconLocation.png)
 ![GATSBY_EMPTY_ALT](./iconTicket.png)
-
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
 </div>
 
@@ -117,9 +126,7 @@ Free
 
 </div>
 
-&nbsp;
-
-##### Vodno Mountain
+##### Vodno Mountain , Lake of Matka and Cave (TOUR)
 
 The view from **Vodno** is incredible. I recommend taking a tour to go there because it's a place you have to visit.
 
@@ -134,6 +141,14 @@ Vodno is an excellent choice if you wish to enjoy spectacular views of the surro
 &nbsp;
 
 Overall, Vodno is a great place for a picnic or to spend the day in Skopje. It's definitely one of the best things to do in Skopje for those who enjoy outdoor activities.
+
+&nbsp;
+
+![GATSBY_EMPTY_ALT](./vodno.jpg)
+
+![GATSBY_EMPTY_ALT](./lakeMatka.jpg)
+
+![GATSBY_EMPTY_ALT](./caveSkopje.jpg)
 
 &nbsp;
 
@@ -172,6 +187,10 @@ Inside, you'll find memorabilia, photos, and documents that chronicle her work a
 
 &nbsp;
 
+![GATSBY_EMPTY_ALT](./motherTeresa.jpg)
+
+&nbsp;
+
 <div class="container-icons">
 
 <div class="container-icons-imagens">
@@ -206,13 +225,15 @@ It was first built under the rule of the Roman emperor Justinian but was destroy
 
 &nbsp;
 
+![GATSBY_EMPTY_ALT](./stoneBridge.jpg)
+
+&nbsp;
+
 <div class="container-icons">
 
 <div class="container-icons-imagens">
 
 ![GATSBY_EMPTY_ALT](./iconLocation.png)
-
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
 </div>
 
@@ -231,6 +252,10 @@ It was first built under the rule of the Roman emperor Justinian but was destroy
 &nbsp;
 
 The Art Bridge was built in 2014 as part of the Skopje 2014 project.
+
+&nbsp;
+
+![GATSBY_EMPTY_ALT](./artBridge.jpg)
 
 &nbsp;
 
@@ -261,6 +286,10 @@ It was built in the 6th century during the reign of the Roman emperor Justinian 
 &nbsp;
 
 The lighting of Kale Fortress provides a peaceful and serene dignity at night.
+
+&nbsp;
+
+![GATSBY_EMPTY_ALT](./skopjeFrotress.jpg)
 
 &nbsp;
 
@@ -302,6 +331,10 @@ Nearby is the Skopje Zoo, and the ticket costs only 1 euro. If you enjoy this to
 
 &nbsp;
 
+![GATSBY_EMPTY_ALT](./cityPark.jpg)
+
+&nbsp;
+
 <div class="container-icons">
 
 <div class="container-icons-imagens">
@@ -325,6 +358,10 @@ The **Woman Warrior Park** is a large park where you can find many sculptures, i
 &nbsp;
 
 There are many monuments here, including the Woman Warrior monument placed in 1970 in honour of all Macedonian women who participated in World War II.
+
+&nbsp;
+
+![GATSBY_EMPTY_ALT](./womanWarriorPark.jpg)
 
 &nbsp;
 
@@ -358,6 +395,10 @@ Walk around the arch to admire the artworks in alabaster and gold, or you can en
 
 &nbsp;
 
+![GATSBY_EMPTY_ALT](./macedoniaGate.jpg)
+
+&nbsp;
+
 <div class="container-icons">
 
 <div class="container-icons-imagens">
@@ -369,6 +410,37 @@ Walk around the arch to admire the artworks in alabaster and gold, or you can en
 <div class="container-information">
 
 [Macedonia Gate](https://maps.app.goo.gl/zb5SuDfmkPgHqHUKA)
+
+</div>
+
+</div>
+
+###### Macedonian Orthodox Church of Saint Clement of Ohrid
+
+The **Macedonian Orthodox Church** is a significant church that you can visit and take many pictures of. The architecture is impressive and definitely worth the visit.
+
+Completed in 1990 by the Macedonian architect Slavko Brezovski, the church comprises a series of domes and arches that give it an unusual "bubble" shape. Inside, the wall frescoes and iconoclasts feature beautiful sculptures and paintings, including a giant mural of Jesus.
+
+&nbsp;
+
+![GATSBY_EMPTY_ALT](./orthodoxChurch.jpg)
+
+&nbsp;
+
+<div class="container-icons">
+
+<div class="container-icons-imagens">
+
+![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./iconClock.png)
+
+</div>
+
+<div class="container-information">
+
+[Macedonia Gate](https://maps.app.goo.gl/Luu5rY1st8T7uMGT7)
+
+Monday – Friday 09:00am – 8:00pm
 
 </div>
 
@@ -389,6 +461,10 @@ It was completed in 1492 by the order of Mustafa Pasha, the same vizier who comm
 &nbsp;
 
 In a word, the design is elegant, with all the alabaster domes, beautiful fountains, and rose gardens. The delicate blue paintings beneath the domes of the main entrance resemble Delftware ceramics.
+
+&nbsp;
+
+![GATSBY_EMPTY_ALT](./mustafaPasa.jpg)
 
 &nbsp;
 
@@ -425,6 +501,20 @@ Free
 
 &nbsp;
 
+![GATSBY_EMPTY_ALT](./separator2.png)
+
+###### Tours I recommend
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-excluded-tour-ids="" data-gyg-partner-id="3K1OV70" data-gyg-tour-ids="79310,465054,180203"></div>
+
+&nbsp;
+
+![GATSBY_EMPTY_ALT](./separator2.png)
+
+&nbsp;
+
+<div class="map-wrapper">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nn6oXDDUNvQjh24b4gsuvHa0soTpm-c&ehbc=2E312F" width="440" height="380"></iframe>
+</div>
 
 &nbsp;
