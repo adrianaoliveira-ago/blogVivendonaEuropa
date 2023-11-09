@@ -1,5 +1,5 @@
 ---
-title: Travel to North Macedona | Skopje
+title: Top Things to DO in Skopje - Your Complete Travel Itinerary
 date: "2023-10-06T22:40:32.169Z"
 description: Visit Skopje for its captivating blend of historical architecture, vibrant culture, and scenic beauty in the heart of North Macedonia.
 featuredImage: ./coverNorthMacedonia.jpg

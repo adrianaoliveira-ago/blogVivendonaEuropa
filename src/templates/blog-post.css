@@ -49,9 +49,9 @@ h6 {
 
 .videos-wrapper {
   display: flex;
-  align-items: center;
   gap: 4em;
-  justify-content: space-between;
+  padding-bottom: 2em;
+  justify-content: center;
   padding-bottom: 2em;
 }
 
