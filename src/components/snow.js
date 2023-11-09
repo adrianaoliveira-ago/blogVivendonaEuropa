@@ -1,5 +1,5 @@
 import React from "react"
-import "./Snow.css"
+import "./snow.css"
 
 const Snow = () => {
   const snowArray = [
