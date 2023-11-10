@@ -136,7 +136,7 @@ Free
 
 &nbsp;
 
-The view from **Vodno** is incredible. I recommend taking a tour to go there because it's a place you have to visit.
+The view from **Vodno** is incredible. I recommend taking a [TOUR](https://gyg.me/TJyY55v8) to go there because it's a place you have to visit.
 
 &nbsp;
 
@@ -167,7 +167,7 @@ Overall, Vodno is a great place for a picnic or to spend the day in Skopje. It's
 
 [Vodno Mountain](https://maps.app.goo.gl/Hzsz8cJaJEBJRui87)
 
-[Tour Get Your Guide](https://gyg.me/yERID53M)
+[Get Your Guide TOUR](https://gyg.me/TJyY55v8)
 
 </div>
 
@@ -489,6 +489,25 @@ Free
 &nbsp;
 
 ![GATSBY_EMPTY_ALT](./separator2.png)
+
+&nbsp;
+
+###### More About Skopje
+
+🙏🏾 **Religion**: The predominant religion in North Macedonia is Eastern Orthodox Christianity, with a significant Muslim minority.
+
+🗣️ **Language**: The official language of North Macedonia is Macedonian. Albanian is also widely spoken, and there are other minority languages.
+
+🤑 **Currency**:The official currency of North Macedonia is the Macedonian Denar (MKD).
+
+&nbsp;
+
+<div class="container-quote">
+
+💡 **Travel Tip**:
+_See here if you need [luggage storage in Istanbul](https://www.nannybag.com/en)._
+
+</div>
 
 &nbsp;
 
