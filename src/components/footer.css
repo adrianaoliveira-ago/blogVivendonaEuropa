@@ -15,14 +15,14 @@ footer {
   display: flex;
   height: 25px;
   gap: 20px;
-  margin-left: 20px;
+  margin-left: 50px;
   margin-top: 30px;
 }
 
 .arrowUp-contanier {
   display: flex;
   justify-content: flex-end;
-  width: 80%;
+  width: 90%;
 }
 
 .arrowUp-style {

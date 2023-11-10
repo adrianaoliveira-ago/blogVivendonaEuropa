@@ -12,6 +12,10 @@ Enjoy every single moment in Skopje; you will fall in love.
 
 ## Statue of Alexander the Great
 
+<img src="./alexanderTheGreat5.jpg" alt="My image" max-width="200px"/>
+
+&nbsp;
+
 In the main square, you can find a lot of statues, with the biggest one being **Alexander the Great**. Enjoy your time in this square and take some time to capture videos and photos; it's a great place to spend time and grab a bite to eat. At night, it's a beautiful place surrounded by lights and people, but don't worry; it's not too crowded.
 
 &nbsp;
@@ -27,10 +31,6 @@ view back on the skyline of her hometown _Bookmarksgrove_, the headline of
 [Alphabet Village](http://google.com) and the subline of her own road, the Line
 Lane. Pityful a rhetoric question ran over her cheek, then she continued her
 way. On her way she met a copy. -->
-
-&nbsp;
-
-<img src="./alexanderTheGreat5.jpg" alt="My image" max-width="200px"/>
 
 <!-- ![GATSBY_EMPTY_ALT](./alexanderTheGreat5.jpg) -->
 
@@ -56,15 +56,15 @@ way. On her way she met a copy. -->
 
 ### A Thematic Friends Cafe
 
+![GATSBY_EMPTY_ALT](./friendsCafe.jpg)
+
+&nbsp;
+
 Another place you can visit is **The Friends Cafe Thematic**. It's not the usual itinerary because the cafe is not near the other sightseeing spots. I truly recommend this place because it's very nice, and you should not miss it if you have the time to go there.
 
 &nbsp;
 
 You can get there on foot, and it will take you around 30 minutes. Enjoy the city and its streets as you walk to the thematic cafe.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./friendsCafe.jpg)
 
 &nbsp;
 
@@ -91,6 +91,10 @@ You can get there on foot, and it will take you around 30 minutes. Enjoy the cit
 
 ### The Old Bazar
 
+![GATSBY_EMPTY_ALT](./oldBazar.jpg)
+
+&nbsp;
+
 Spend time in the **Old Bazaar**; it's a place where you can walk all day and get lost in every single alley. You can find everything in this place, but keep in mind the time because it's quite large, and you can easily lose track of time.
 
 &nbsp;
@@ -100,10 +104,6 @@ The Old Bazaar is one of Skopje's most popular attractions, filled with vibrant 
 &nbsp;
 
 You can find the best and most diverse collections of Ottoman architecture in this area because it used to be a significant trading center during the Ottoman period.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./oldBazar.jpg)
 
 &nbsp;
 
@@ -128,6 +128,14 @@ Free
 
 ##### Vodno Mountain , Lake of Matka and Cave (TOUR)
 
+![GATSBY_EMPTY_ALT](./vodno.jpg)
+
+![GATSBY_EMPTY_ALT](./lakeMatka.jpg)
+
+![GATSBY_EMPTY_ALT](./caveSkopje.jpg)
+
+&nbsp;
+
 The view from **Vodno** is incredible. I recommend taking a tour to go there because it's a place you have to visit.
 
 &nbsp;
@@ -141,14 +149,6 @@ Vodno is an excellent choice if you wish to enjoy spectacular views of the surro
 &nbsp;
 
 Overall, Vodno is a great place for a picnic or to spend the day in Skopje. It's definitely one of the best things to do in Skopje for those who enjoy outdoor activities.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./vodno.jpg)
-
-![GATSBY_EMPTY_ALT](./lakeMatka.jpg)
-
-![GATSBY_EMPTY_ALT](./caveSkopje.jpg)
 
 &nbsp;
 
@@ -175,6 +175,10 @@ Overall, Vodno is a great place for a picnic or to spend the day in Skopje. It's
 
 ##### The Mother Teresa Memorial House
 
+![GATSBY_EMPTY_ALT](./motherTeresa.jpg)
+
+&nbsp;
+
 **The Mother Teresa Memorial House** is a place you can visit for free, and it's a great place to spend some time. Inside, you can find a small house with many stories. It's not big, and you can see everything in about 30 minutes.
 
 &nbsp;
@@ -184,10 +188,6 @@ We all know Mother Teresa and how she was a great humanitarian, but few people k
 &nbsp;
 
 Inside, you'll find memorabilia, photos, and documents that chronicle her work and religious life. You can even watch a documentary about the Nobel Peace Prize-winning humanitarian's work in the multimedia center located beneath the museum.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./motherTeresa.jpg)
 
 &nbsp;
 
@@ -217,15 +217,15 @@ Monday – Friday 09:00 – 20:00 / Saturday – Sunday 09:00 – 14:00
 
 ###### Stone Bridge
 
+![GATSBY_EMPTY_ALT](./stoneBridge.jpg)
+
+&nbsp;
+
 The **Stone Bridge** is crowded because it connects both sides of Skopje, the old city, and the new city. The old city is the Old Bazaar, and in the new city, you can find the Main Square. Walking across the bridge, you can enjoy the view of the Vardar River.
 
 &nbsp;
 
 It was first built under the rule of the Roman emperor Justinian but was destroyed and repaired many times during the Ottoman period.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./stoneBridge.jpg)
 
 &nbsp;
 
@@ -242,20 +242,19 @@ It was first built under the rule of the Roman emperor Justinian but was destroy
 [Stone Bridge](https://maps.app.goo.gl/3bqbcxkyAybL16sK7)
 
 </div>
-
 </div>
 
 ###### The Art Bridge
+
+![GATSBY_EMPTY_ALT](./artBridge.jpg)
+
+&nbsp;
 
 **The Art Bridge** is another sight you can see from the Stone Bridge. I recommend visiting it at night because the lights are on, and you can enjoy the view from the Art Bridge better. You can also spot a large boat that functions as a restaurant.
 
 &nbsp;
 
 The Art Bridge was built in 2014 as part of the Skopje 2014 project.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./artBridge.jpg)
 
 &nbsp;
 
@@ -277,6 +276,10 @@ The Art Bridge was built in 2014 as part of the Skopje 2014 project.
 
 ###### The Skopje Fortress
 
+![GATSBY_EMPTY_ALT](./skopjeFrotress.jpg)
+
+&nbsp;
+
 **The Skopje Fortress** is another place you can visit for free. You can walk on the walls and enjoy the city view. However, be aware that it's not a safe place because it lacks maintenance, and you may find many loose bricks.
 
 &nbsp;
@@ -286,10 +289,6 @@ It was built in the 6th century during the reign of the Roman emperor Justinian 
 &nbsp;
 
 The lighting of Kale Fortress provides a peaceful and serene dignity at night.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./skopjeFrotress.jpg)
 
 &nbsp;
 
@@ -319,6 +318,10 @@ Monday – Friday 09:00am – 7:00pm
 
 ###### Skopje City Park
 
+![GATSBY_EMPTY_ALT](./cityPark.jpg)
+
+&nbsp;
+
 **Skopje City Park** is a green place you can visit when you have some free time. It's a vast park where you can have a great day. Enjoy the lake and take in the surroundings; the people are really nice.
 
 &nbsp;
@@ -328,10 +331,6 @@ The park began to take shape in the 19th century and now stretches between Octob
 &nbsp;
 
 Nearby is the Skopje Zoo, and the ticket costs only 1 euro. If you enjoy this tour, set aside 2 hours and visit the zoo.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./cityPark.jpg)
 
 &nbsp;
 
@@ -353,15 +352,15 @@ Nearby is the Skopje Zoo, and the ticket costs only 1 euro. If you enjoy this to
 
 ###### Woman Warrior Park
 
+![GATSBY_EMPTY_ALT](./womanWarriorPark.jpg)
+
+&nbsp;
+
 The **Woman Warrior Park** is a large park where you can find many sculptures, including the Woman Warrior. Everything is located nearby, making it easy to find this park.
 
 &nbsp;
 
 There are many monuments here, including the Woman Warrior monument placed in 1970 in honour of all Macedonian women who participated in World War II.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./womanWarriorPark.jpg)
 
 &nbsp;
 
@@ -383,6 +382,10 @@ There are many monuments here, including the Woman Warrior monument placed in 19
 
 ###### Macedonia Gate
 
+![GATSBY_EMPTY_ALT](./macedoniaGate.jpg)
+
+&nbsp;
+
 The **Macedonia Gate** is a grand monument located near the main square where Alexander the Great is honoured. Pay attention to every single detail on the gate, and you'll discover the history behind the art on its walls.
 
 &nbsp;
@@ -392,10 +395,6 @@ Completed in January 2012, the arch is 21 meters in height and is adorned with r
 &nbsp;
 
 Walk around the arch to admire the artworks in alabaster and gold, or you can enter through a door inside the arch to visit the souvenir shop, gallery, and observation deck.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./macedoniaGate.jpg)
 
 &nbsp;
 
@@ -417,13 +416,13 @@ Walk around the arch to admire the artworks in alabaster and gold, or you can en
 
 ###### Macedonian Orthodox Church of Saint Clement of Ohrid
 
-The **Macedonian Orthodox Church** is a significant church that you can visit and take many pictures of. The architecture is impressive and definitely worth the visit.
-
-Completed in 1990 by the Macedonian architect Slavko Brezovski, the church comprises a series of domes and arches that give it an unusual "bubble" shape. Inside, the wall frescoes and iconoclasts feature beautiful sculptures and paintings, including a giant mural of Jesus.
+![GATSBY_EMPTY_ALT](./orthodoxChurch.jpg)
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./orthodoxChurch.jpg)
+The **Macedonian Orthodox Church** is a significant church that you can visit and take many pictures of. The architecture is impressive and definitely worth the visit.
+
+Completed in 1990 by the Macedonian architect Slavko Brezovski, the church comprises a series of domes and arches that give it an unusual "bubble" shape. Inside, the wall frescoes and iconoclasts feature beautiful sculptures and paintings, including a giant mural of Jesus.
 
 &nbsp;
 
@@ -448,6 +447,10 @@ Monday – Friday 09:00am – 8:00pm
 
 ###### Mustafa Paša
 
+![GATSBY_EMPTY_ALT](./mustafaPasa.jpg)
+
+&nbsp;
+
 It was a great experience to visit this place; unfortunately, it was closed when we went, but you can still walk in the garden and feel the energy there.
 
 &nbsp;
@@ -461,10 +464,6 @@ It was completed in 1492 by the order of Mustafa Pasha, the same vizier who comm
 &nbsp;
 
 In a word, the design is elegant, with all the alabaster domes, beautiful fountains, and rose gardens. The delicate blue paintings beneath the domes of the main entrance resemble Delftware ceramics.
-
-&nbsp;
-
-![GATSBY_EMPTY_ALT](./mustafaPasa.jpg)
 
 &nbsp;
 
@@ -493,6 +492,15 @@ Free
 
 &nbsp;
 
+<div class="map-wrapper">
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nn6oXDDUNvQjh24b4gsuvHa0soTpm-c&ehbc=2E312F" width="1000" height="380" class="map-iframe"></iframe>
+</div>
+
+&nbsp;
+
+![GATSBY_EMPTY_ALT](./separator2.png)
+&nbsp;
+
 <div class="videos-wrapper">
  <iframe width="500" height="280" src="https://www.youtube.com/embed/tp9imBs010o?si=Glyxx9wPYaHYmeJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="videos-iframe"></iframe>
 
@@ -508,13 +516,5 @@ Free
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-excluded-tour-ids="" data-gyg-partner-id="3K1OV70" data-gyg-tour-ids="79310,465054,180203"></div>
 
 &nbsp;
-
-![GATSBY_EMPTY_ALT](./separator2.png)
-
-&nbsp;
-
-<div class="map-wrapper">
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nn6oXDDUNvQjh24b4gsuvHa0soTpm-c&ehbc=2E312F" width="440" height="380"></iframe>
-</div>
-
+![GATSBY_EMPTY_ALT](./signature2.png)
 &nbsp;
