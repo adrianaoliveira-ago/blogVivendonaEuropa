@@ -10,7 +10,7 @@ Skopje is the capital of North Macedonia, a country located in the center of the
 
 Enjoy every single moment in Skopje; you will fall in love.
 
-## Statue of Alexander the Great
+## ✈ Statue of Alexander the Great
 
 <img src="./alexanderTheGreat5.jpg" alt="My image" max-width="200px"/>
 
@@ -54,7 +54,7 @@ way. On her way she met a copy. -->
 
 </div>
 
-### A Thematic Friends Cafe
+### ✈ A Thematic Friends Cafe
 
 ![GATSBY_EMPTY_ALT](./friendsCafe.jpg)
 
@@ -89,7 +89,7 @@ You can get there on foot, and it will take you around 30 minutes. Enjoy the cit
 
 </div>
 
-### The Old Bazar
+### ✈ The Old Bazar
 
 ![GATSBY_EMPTY_ALT](./oldBazar.jpg)
 
@@ -126,7 +126,7 @@ Free
 
 </div>
 
-##### Vodno Mountain , Lake of Matka and Cave (TOUR)
+##### ✈ Vodno Mountain , Lake of Matka and Cave (TOUR)
 
 ![GATSBY_EMPTY_ALT](./vodno.jpg)
 
@@ -173,7 +173,7 @@ Overall, Vodno is a great place for a picnic or to spend the day in Skopje. It's
 
 </div>
 
-##### The Mother Teresa Memorial House
+##### ✈ The Mother Teresa Memorial House
 
 ![GATSBY_EMPTY_ALT](./motherTeresa.jpg)
 
@@ -215,7 +215,7 @@ Monday – Friday 09:00 – 20:00 / Saturday – Sunday 09:00 – 14:00
 
 </div>
 
-###### Stone Bridge
+###### ✈ Stone Bridge
 
 ![GATSBY_EMPTY_ALT](./stoneBridge.jpg)
 
@@ -244,7 +244,7 @@ It was first built under the rule of the Roman emperor Justinian but was destroy
 </div>
 </div>
 
-###### The Art Bridge
+###### ✈ The Art Bridge
 
 ![GATSBY_EMPTY_ALT](./artBridge.jpg)
 
@@ -274,7 +274,7 @@ The Art Bridge was built in 2014 as part of the Skopje 2014 project.
 
 </div>
 
-###### The Skopje Fortress
+###### ✈ The Skopje Fortress
 
 ![GATSBY_EMPTY_ALT](./skopjeFrotress.jpg)
 
@@ -316,7 +316,7 @@ Monday – Friday 09:00am – 7:00pm
 
 </div>
 
-###### Skopje City Park
+###### ✈ Skopje City Park
 
 ![GATSBY_EMPTY_ALT](./cityPark.jpg)
 
@@ -350,7 +350,7 @@ Nearby is the Skopje Zoo, and the ticket costs only 1 euro. If you enjoy this to
 
 </div>
 
-###### Woman Warrior Park
+###### ✈ Woman Warrior Park
 
 ![GATSBY_EMPTY_ALT](./womanWarriorPark.jpg)
 
@@ -380,7 +380,7 @@ There are many monuments here, including the Woman Warrior monument placed in 19
 
 </div>
 
-###### Macedonia Gate
+###### ✈ Macedonia Gate
 
 ![GATSBY_EMPTY_ALT](./macedoniaGate.jpg)
 
@@ -414,7 +414,7 @@ Walk around the arch to admire the artworks in alabaster and gold, or you can en
 
 </div>
 
-###### Macedonian Orthodox Church of Saint Clement of Ohrid
+###### ✈ Macedonian Orthodox Church of Saint Clement of Ohrid
 
 ![GATSBY_EMPTY_ALT](./orthodoxChurch.jpg)
 
@@ -445,7 +445,7 @@ Monday – Friday 09:00am – 8:00pm
 
 </div>
 
-###### Mustafa Paša
+###### ✈ Mustafa Paša
 
 ![GATSBY_EMPTY_ALT](./mustafaPasa.jpg)
 
@@ -492,7 +492,7 @@ Free
 
 &nbsp;
 
-###### More About Skopje
+###### ✈ More About Skopje
 
 🙏🏾 **Religion**: The predominant religion in North Macedonia is Eastern Orthodox Christianity, with a significant Muslim minority.
 
@@ -530,7 +530,7 @@ _See here if you need [luggage storage in Istanbul](https://www.nannybag.com/en)
 
 ![GATSBY_EMPTY_ALT](./separator2.png)
 
-###### Tours I recommend
+###### ✈ Tours I recommend
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-excluded-tour-ids="" data-gyg-partner-id="3K1OV70" data-gyg-tour-ids="79310,465054,180203"></div>
 
