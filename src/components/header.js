@@ -2,7 +2,7 @@ import * as React from "react"
 import "./header.css"
 // import { Link } from "gatsby"
 
-import logoVP from "./logo-vivendo-na-europa.svg"
+import logoVP from "./logoAturistinhaVivendoNaEuropa.svg"
 
 const NavLinks = () => {
   const headerlinks = [

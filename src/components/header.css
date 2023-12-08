@@ -25,6 +25,11 @@
   justify-content: space-around;
 }
 
+.icon-logo {
+  width: 30em;
+  margin-top: 0.5em;
+}
+
 .nav-map-links > li > a {
   text-decoration: none;
   color: #fff;
