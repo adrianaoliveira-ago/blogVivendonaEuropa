@@ -505,7 +505,7 @@ Free
 <div class="container-quote">
 
 💡 **Travel Tip**:
-_See here if you need [luggage storage in Istanbul](https://www.nannybag.com/en)._
+_See here if you need [luggage storage in Skopje](https://www.nannybag.com/en)._
 
 </div>
 
