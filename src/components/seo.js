@@ -42,6 +42,12 @@ const Seo = ({ description, title, children }) => {
       />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
+
+      <script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=G-GMHQ9HM0VN"
+      ></script>
+
       {children}
     </>
   )
