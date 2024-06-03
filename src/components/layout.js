@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import Header from "./header"
 
 import Footer from "./footer"
+// import MoneyPot from "./moneyVase"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -29,6 +30,7 @@ const Layout = ({ location, title, children }) => {
 
       <main>{children}</main>
 
+      {/* <MoneyPot /> */}
       <Footer />
     </div>
   )

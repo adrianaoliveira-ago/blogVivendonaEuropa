@@ -8,12 +8,12 @@ const NavLinks = () => {
   const headerlinks = [
     {
       name: "Youtube",
-      link: "https://www.youtube.com/@AdrianaGonzaga_VivendoNaEuropa",
+      link: "https://www.youtube.com/@Aturistinha_VivendoNaEuropa",
     },
 
     {
       name: "Instagram",
-      link: "https://www.instagram.com/vivendo_na_europa__/?hl=de",
+      link: "https://www.instagram.com/a_turistinha_vivendo_na_europa/",
     },
 
     {

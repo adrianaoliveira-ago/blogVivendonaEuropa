@@ -9,6 +9,7 @@ import Date from "../components/date"
 import "./blog-post.css"
 import PhotoCover from "../components/photoCover"
 import Snow from "../components/snow"
+import MoneyPot from "../components/moneyVase"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -41,6 +42,7 @@ const BlogPostTemplate = ({
           />
         </article>
       </div>
+      <MoneyPot className="blog-post-moneyPot" />
 
       {/* <nav className="blog-post-nav">
         <ul
