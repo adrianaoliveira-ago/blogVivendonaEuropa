@@ -2,7 +2,7 @@
 title: The best things to do in Istanbul - Turkey
 date: "2023-11-17T22:40:32.169Z"
 description: Uncover Istanbul's charm with historic sites, cultural richness, and a blend of East-West influences, creating a memorable travel experience.
-featuredImage: ./coverIstanbul.jpg
+featuredImage: ./pictures/coverIstanbul.jpg
 ---
 
 Istanbul is the only transcontinental city in the world. On the western side of the Bosphorus Strait, you are in Europe, but if you cross to the other side, you will be stepping into Asia!
@@ -15,7 +15,7 @@ Enjoy every single moment in Skopje; you will fall in love.
 
 ## ✈ Istanbul Bosphorus Dinner Cruise
 
-<img src="./dinnerIstanbul.jpg" alt="boat at night in Istanbul" max-width="200px"/>
+<img src="./pictures/dinnerIstanbul.jpg" alt="boat at night in Istanbul" max-width="200px"/>
 
 &nbsp;
 
@@ -29,11 +29,11 @@ Experience a lively cruise along the **Bosphorus Strait**. See the palaces of Ot
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -51,9 +51,9 @@ Experience a lively cruise along the **Bosphorus Strait**. See the palaces of Ot
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-### ✈ Gülhane Park
+## ✈ Gülhane Park
 
 This is a great place to visit and spend some time, just enjoying the moment. Take a break, capture some videos and photos – you're going to like it.
 
@@ -65,11 +65,11 @@ This is a great place to visit and spend some time, just enjoying the moment. Ta
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -87,11 +87,11 @@ Open daily
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-### ✈ Topkapi Palace
+## ✈ Topkapi Palace
 
-![GATSBY_EMPTY_ALT](./topkapiPalace.jpg)
+![GATSBY_EMPTY_ALT](./pictures/topkapiPalace.jpg)
 
 &nbsp;
 
@@ -111,17 +111,17 @@ The beautifully decorated Topkapi Palace Harem has 300 rooms, 9 Turkish baths, 2
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -147,13 +147,13 @@ Open daily between 09:00 am - 18:00 pm (Tuesday Closed)
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-##### ✈ Hagia Sophia
+## ✈ Hagia Sophia
 
-![GATSBY_EMPTY_ALT](./hagiaSophia2.jpg)
+![GATSBY_EMPTY_ALT](./pictures/hagiaSophia2.jpg)
 
-![GATSBY_EMPTY_ALT](./hagiaSophia3.jpg)
+![GATSBY_EMPTY_ALT](./pictures/hagiaSophia3.jpg)
 
 &nbsp;
 
@@ -179,10 +179,10 @@ It was converted into a mosque from a church in the 15th century. Its unique arc
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -198,11 +198,11 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-##### ✈ The Blue Mosque
+## ✈ The Blue Mosque
 
-![GATSBY_EMPTY_ALT](./blueMosque.jpg)
+![GATSBY_EMPTY_ALT](./pictures/blueMosque.jpg)
 
 &nbsp;
 
@@ -222,11 +222,11 @@ The Sultan Ahmed Mosque, better known as the Blue Mosque due to the prominent co
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -244,11 +244,11 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ Hippodrome
+## ✈ Hippodrome
 
-![GATSBY_EMPTY_ALT](./hipodromo.jpg)
+![GATSBY_EMPTY_ALT](./pictures/hipodromo.jpg)
 
 &nbsp;
 
@@ -264,11 +264,11 @@ The Istanbul Hippodrome served as an ancient racetrack where historical chariot 
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -286,13 +286,13 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ Grand Baazar
+## ✈ Grand Baazar
 
-![GATSBY_EMPTY_ALT](./granBaazar.jpg)
+![GATSBY_EMPTY_ALT](./pictures/granBaazar.jpg)
 
-![GATSBY_EMPTY_ALT](./granBaazar2.jpg)
+![GATSBY_EMPTY_ALT](./pictures/granBaazar2.jpg)
 
 &nbsp;
 
@@ -312,11 +312,11 @@ Among the largest and oldest covered markets globally, the Grand Bazaar features
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -334,13 +334,13 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ Spice Bazaar or Egyptian Bazar
+## ✈ Spice Bazaar or Egyptian Bazar
 
-![GATSBY_EMPTY_ALT](./spiceBaazar.jpg)
+![GATSBY_EMPTY_ALT](./pictures/spiceBaazar.jpg)
 
-![GATSBY_EMPTY_ALT](./spiceBazzar2.jpg)
+![GATSBY_EMPTY_ALT](./pictures/spiceBazzar2.jpg)
 
 &nbsp;
 
@@ -360,11 +360,11 @@ It features rows of spice vendors displaying their colourful products in large p
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -382,11 +382,11 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ Yeni Cami Mosque
+## ✈ Yeni Cami Mosque
 
-![GATSBY_EMPTY_ALT](./yeniCami.jpg)
+![GATSBY_EMPTY_ALT](./pictures/yeniCami.jpg)
 
 &nbsp;
 
@@ -408,10 +408,10 @@ The building was finally completed sixty years later by Valide Sultan Turhan Hat
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -427,11 +427,11 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ Rumeli Fortress
+## ✈ Rumeli Fortress
 
-![GATSBY_EMPTY_ALT](./rumelliFortress.jpg)
+![GATSBY_EMPTY_ALT](./pictures/rumelliFortress.jpg)
 
 &nbsp;
 
@@ -455,11 +455,11 @@ Over time, a neighbourhood emerged within the fortress, which began to be used a
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -477,11 +477,11 @@ Monday(CLOSED) - Other days 9 am - 5 pm
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ Galata tower
+## ✈ Galata tower
 
-![GATSBY_EMPTY_ALT](./galataTower.jpg)
+![GATSBY_EMPTY_ALT](./pictures/galataTower.jpg)
 
 &nbsp;
 
@@ -503,11 +503,11 @@ The tower, which was in ruins in the 1960s, was restored by the municipality of 
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -525,11 +525,11 @@ The tower, which was in ruins in the 1960s, was restored by the municipality of 
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ St. Anthony of Padua Church
+## ✈ St. Anthony of Padua Church
 
-![GATSBY_EMPTY_ALT](./paduaChurch.jpg)
+![GATSBY_EMPTY_ALT](./pictures/paduaChurch.jpg)
 
 &nbsp;
 
@@ -549,11 +549,11 @@ Before becoming pope, Pope John XXIII preached at St. Antoine for several years 
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -571,13 +571,13 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ Taksim Square
+## ✈ Taksim Square
 
-![GATSBY_EMPTY_ALT](./taksimSquare2.jpg)
+![GATSBY_EMPTY_ALT](./pictures/taksimSquare2.jpg)
 
-![GATSBY_EMPTY_ALT](./taksimSquare.png)
+![GATSBY_EMPTY_ALT](./assets/taksimSquare.png)
 
 &nbsp;
 
@@ -601,11 +601,11 @@ The dense network of side streets is filled with bars, antique shops, and roofto
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -623,11 +623,11 @@ Open daily 24/7
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ Dolmabahçe Palace
+## ✈ Dolmabahçe Palace
 
-![GATSBY_EMPTY_ALT](./dolmabahcePalace.jpg)
+![GATSBY_EMPTY_ALT](./pictures/dolmabahcePalace.jpg)
 
 &nbsp;
 
@@ -643,9 +643,9 @@ Grand, domed sultan's palace, now a museum, including collections of art, callig
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
 
-<!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
+<!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
 
 </div>
 
@@ -659,17 +659,17 @@ Grand, domed sultan's palace, now a museum, including collections of art, callig
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost.png)
 
-###### ✈ Tour: Bursa Uludağ Mountain Tour & Cable Car Ride
+## ✈ Tour: Bursa Uludağ Mountain Tour & Cable Car Ride
 
-![GATSBY_EMPTY_ALT](./bursa1.jpg)
+![GATSBY_EMPTY_ALT](./pictures/bursa1.jpg)
 
-![GATSBY_EMPTY_ALT](./bursa2.jpg)
+![GATSBY_EMPTY_ALT](./pictures/bursa2.jpg)
 
-![GATSBY_EMPTY_ALT](./bursa3.jpg)
+![GATSBY_EMPTY_ALT](./pictures/bursa3.jpg)
 
-![GATSBY_EMPTY_ALT](./bursa4.jpg)
+![GATSBY_EMPTY_ALT](./pictures/bursa4.jpg)
 
 &nbsp;
 
@@ -706,9 +706,9 @@ It is nicknamed "Yeşil Bursa" or Green Bursa, due to its many parks and trees, 
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation1.png)
-![GATSBY_EMPTY_ALT](./iconTicket1.png)
-![GATSBY_EMPTY_ALT](./iconClock1.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
 </div>
 
@@ -726,31 +726,31 @@ It is nicknamed "Yeşil Bursa" or Green Bursa, due to its many parks and trees, 
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./separator3.png)
+![GATSBY_EMPTY_ALT](./assets/separator3.png)
 
 &nbsp;
 
-###### ✈ Places to grab something to eat
+## ✈ Places to grab something to eat
 
 **Turkish-German Bookstore & Cafe**
 
 📍https://maps.app.goo.gl/MzJjqsPKUzqEizoc6
 
-![GATSBY_EMPTY_ALT](./coffee.jpg)
+![GATSBY_EMPTY_ALT](./pictures/coffee.jpg)
 
 **Patsosis (kumpir)**
 
 📍https://maps.app.goo.gl/iqp5cMBUsPkAY39J8
 
-![GATSBY_EMPTY_ALT](./kumpir.jpg)
+![GATSBY_EMPTY_ALT](./pictures/kumpir.jpg)
 
 **Turgut kebap restaurant Sirkeci**
 
 📍https://maps.app.goo.gl/thj71ChqBzy7b9KT8
 
-![GATSBY_EMPTY_ALT](./tee.jpg)
+![GATSBY_EMPTY_ALT](./pictures/tee.jpg)
 
-###### ✈ More About Skopje
+## ✈ More About Istambul
 
 🙏🏾 **Religion**: The predominant religion in Istanbul, as well as in Turkey as a whole, is Islam. The majority of the population is Sunni Muslim.
 
@@ -775,7 +775,7 @@ _See here if you need [luggage storage in Istanbul](https://www.nannybag.com/en)
 
 &nbsp;
 
-<!-- ![GATSBY_EMPTY_ALT](./separator3.png)
+<!-- ![GATSBY_EMPTY_ALT](./assets/separator3.png)
 &nbsp; -->
 
 <!-- <div class="videos-wrapper">
@@ -786,12 +786,12 @@ _See here if you need [luggage storage in Istanbul](https://www.nannybag.com/en)
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./separator3.png)
+![GATSBY_EMPTY_ALT](./assets/separator3.png)
 
-###### ✈ Tours I recommend
+## ✈ Tours I recommend
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-partner-id="3K1OV70" data-gyg-tour-ids="496774,415437,468976"></div>
 
 &nbsp;
-![GATSBY_EMPTY_ALT](./signature3.png)
+![GATSBY_EMPTY_ALT](./assets/signature3.png)
 &nbsp;
