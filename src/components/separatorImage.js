@@ -5,7 +5,7 @@ import separatorImage from "./separator.svg"
 const SeparatorImage = () => {
   return (
     <div className="sepator-container">
-      <img src={separatorImage}></img>
+      <img className="sepator-img" src={separatorImage}></img>
     </div>
   )
 }
