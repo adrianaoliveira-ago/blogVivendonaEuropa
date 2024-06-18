@@ -2,7 +2,7 @@
 title: What to do in Manchester - Tips and Complete Itinerary
 date: "2023-04-06T23:46:37.121Z"
 description: Manchester is a city that breathes history and art, with impressive architecture, world-class museums and galleries, and a lively nightlife.
-featuredImage: "./photoCoverManchester.jpg"
+featuredImage: "./pictures/photoCoverManchester.jpg"
 ---
 
 To go to Manchester is an incredible experience because it is such a nice city. And also you can go on a day trip to Liverpool and have a great experience in the Beatles city.
@@ -23,9 +23,9 @@ You can grab a coffee and spend some time there.
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation3.png)
-![GATSBY_EMPTY_ALT](./iconTicket3.png)
-![GATSBY_EMPTY_ALT](./iconClock3.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation3.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket3.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock3.png)
 
 </div>
 
@@ -43,7 +43,7 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost3.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost3.png)
 
 ### ✈ Afflecks
 
@@ -59,9 +59,9 @@ This eclectic emporium is home to dozens of independent stalls, small shops, and
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation3.png)
-![GATSBY_EMPTY_ALT](./iconTicket3.png)
-![GATSBY_EMPTY_ALT](./iconClock3.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation3.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket3.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock3.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -81,17 +81,17 @@ Mon-Fri:10:30 am to 6:00 pm, Sat:10:00 am to 6:00 pm, Sun: 11:00 am to 5:00 pm.
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost3.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost3.png)
 
 ### ✈ John Rylands Research Institute and Library
 
-![GATSBY_EMPTY_ALT](./Rylands1.jpg)
+![GATSBY_EMPTY_ALT](./pictures/Rylands1.jpg)
 
-![GATSBY_EMPTY_ALT](./Rylands2.jpg)
+![GATSBY_EMPTY_ALT](./pictures/Rylands2.jpg)
 
-![GATSBY_EMPTY_ALT](./Rylands3.jpg)
+![GATSBY_EMPTY_ALT](./pictures/Rylands3.jpg)
 
-![GATSBY_EMPTY_ALT](./Rylands4.jpg)
+![GATSBY_EMPTY_ALT](./pictures/Rylands4.jpg)
 
 &nbsp;
 
@@ -123,9 +123,9 @@ Public Access: The library opened its doors to the public in 1900 as a generous 
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation3.png)
-![GATSBY_EMPTY_ALT](./iconTicket3.png)
-![GATSBY_EMPTY_ALT](./iconClock3.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation3.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket3.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock3.png)
 
 </div>
 
@@ -143,11 +143,11 @@ Wed-Sat: 10am - 5pm
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost3.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost3.png)
 
 ##### ✈ Canal St
 
-![GATSBY_EMPTY_ALT](./CanalSt.jpg)
+![GATSBY_EMPTY_ALT](./pictures/CanalSt.jpg)
 
 &nbsp;
 
@@ -187,9 +187,9 @@ Challenges and Progress: In the 1980s, Chief Constable James Anderton faced cont
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation3.png)
-![GATSBY_EMPTY_ALT](./iconTicket3.png)
-![GATSBY_EMPTY_ALT](./iconClock3.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation3.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket3.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock3.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -209,17 +209,17 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost3.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost3.png)
 
 ##### ✈ Richmond Tea Rooms
 
-![GATSBY_EMPTY_ALT](./Richmond1.jpg)
+![GATSBY_EMPTY_ALT](./pictures/Richmond1.jpg)
 
-![GATSBY_EMPTY_ALT](./Richmond2.jpg)
+![GATSBY_EMPTY_ALT](./pictures/Richmond2.jpg)
 
-![GATSBY_EMPTY_ALT](./Richmond3.jpg)
+![GATSBY_EMPTY_ALT](./pictures/Richmond3.jpg)
 
-![GATSBY_EMPTY_ALT](./tee.jpg)
+![GATSBY_EMPTY_ALT](./pictures/tee.jpg)
 
 &nbsp;
 
@@ -255,8 +255,8 @@ Inclusivity: Richmond Tea Rooms welcomes everyone. They offer vegan and gluten-f
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation3.png)
-![GATSBY_EMPTY_ALT](./iconClock3.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation3.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock3.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -274,13 +274,13 @@ Inclusivity: Richmond Tea Rooms welcomes everyone. They offer vegan and gluten-f
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost3.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost3.png)
 
 ###### ✈ - Etihad Stadium [TOUR](https://www.getyourguide.com/manchester-l1128/manchester-city-etihad-stadium-tour-t155085/?partner_id=3K1OV70&utm_medium=online_publisher)
 
-![GATSBY_EMPTY_ALT](./Etihad1.jpg)
+![GATSBY_EMPTY_ALT](./pictures/Etihad1.jpg)
 
-![GATSBY_EMPTY_ALT](./Etihad2.jpg)
+![GATSBY_EMPTY_ALT](./pictures/Etihad2.jpg)
 
 &nbsp;
 
@@ -296,8 +296,8 @@ The [**Etihad Stadium**](https://www.getyourguide.com/manchester-l1128/mancheste
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation3.png)
-![GATSBY_EMPTY_ALT](./iconTicket3.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation3.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket3.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -315,7 +315,7 @@ The [**Etihad Stadium**](https://www.getyourguide.com/manchester-l1128/mancheste
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost3.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost3.png)
 
 ###### ✈ St. Peter's Square
 
@@ -327,9 +327,9 @@ You can spend a few minutes walking around this square. It’s busy, so you can 
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation3.png)
-![GATSBY_EMPTY_ALT](./iconTicket3.png)
-![GATSBY_EMPTY_ALT](./iconClock3.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation3.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket3.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock3.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -349,7 +349,7 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost3.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost3.png)
 
 ###### ✈ Manchester Central Library
 
@@ -365,9 +365,9 @@ The library has a wide range of services including archives, family and local hi
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation3.png)
-![GATSBY_EMPTY_ALT](./iconTicket3.png)
-![GATSBY_EMPTY_ALT](./iconClock3.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation3.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket3.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock3.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -387,7 +387,7 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./divisorPost3.png)
+![GATSBY_EMPTY_ALT](./assets/divisorPost3.png)
 
 ###### ✈ More About Manchester
 
@@ -425,12 +425,12 @@ _See here if you need [luggage storage in Manchester](https://www.nannybag.com/e
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./separator4.png)
+![GATSBY_EMPTY_ALT](./assets/separator4.png)
 
 ###### ✈ Tours I recommend
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-partner-id="3K1OV70" data-gyg-tour-ids="155085,107185,477746"></div>
 
 &nbsp;
-![GATSBY_EMPTY_ALT](./signature4.png)
+![GATSBY_EMPTY_ALT](./assets/signature4.png)
 &nbsp;

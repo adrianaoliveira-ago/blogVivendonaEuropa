@@ -577,7 +577,7 @@ Free
 
 ![GATSBY_EMPTY_ALT](./pictures/taksimSquare2.jpg)
 
-![GATSBY_EMPTY_ALT](./assets/taksimSquare.png)
+![GATSBY_EMPTY_ALT](./pictures/taksimSquare.png)
 
 &nbsp;
 
@@ -775,14 +775,16 @@ _See here if you need [luggage storage in Istanbul](https://www.nannybag.com/en)
 
 &nbsp;
 
-<!-- ![GATSBY_EMPTY_ALT](./assets/separator3.png)
-&nbsp; -->
+![GATSBY_EMPTY_ALT](./assets/separator3.png)
+&nbsp;
 
-<!-- <div class="videos-wrapper">
- <iframe width="500" height="280" src="https://www.youtube.com/embed/tp9imBs010o?si=Glyxx9wPYaHYmeJC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="videos-iframe"></iframe>
+<div class="videos-wrapper">
 
-<iframe width="500" height="280" src="https://www.youtube.com/embed/7jp-bgVDx-U?si=OB-E9PshdRPKzb5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="videos-iframe"></iframe>
-</div> -->
+
+<iframe width="500" height="280" src="https://www.youtube.com/embed/D0HxAX9CJyc?si=AetOpyQZB41PnEJK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="500" height="280" src="https://www.youtube.com/embed/SVdZsXMKubo?si=n7LN8YtgJgim01u9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 &nbsp;
 

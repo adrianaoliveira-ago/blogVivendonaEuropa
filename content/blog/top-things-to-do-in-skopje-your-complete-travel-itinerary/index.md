@@ -2,7 +2,7 @@
 title: Top Things to DO in Skopje - Your Complete Travel Itinerary
 date: "2023-10-06T22:40:32.169Z"
 description: Visit Skopje for its captivating blend of historical architecture, vibrant culture, and scenic beauty in the heart of North Macedonia.
-featuredImage: ./coverNorthMacedonia.jpg
+featuredImage: ./pictures/coverNorthMacedonia.jpg
 ---
 
 Skopje is the capital of North Macedonia, a country located in the center of the Balkan Peninsula. It is a lush, green city where gourmet food, drinks, traditions and culture are part of everyday life. No matter how many times you visit Skopje, there will always be something new and exciting to see or do.
@@ -12,7 +12,7 @@ Enjoy every single moment in Skopje; you will fall in love.
 
 ## ✈ Statue of Alexander the Great
 
-<img src="./alexanderTheGreat5.jpg" alt="My image" max-width="200px"/>
+<img src="./pictures/alexanderTheGreat5.jpg" alt="My image" max-width="200px"/>
 
 &nbsp;
 
@@ -40,7 +40,7 @@ way. On her way she met a copy. -->
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -56,7 +56,7 @@ way. On her way she met a copy. -->
 
 ### ✈ A Thematic Friends Cafe
 
-![GATSBY_EMPTY_ALT](./friendsCafe.jpg)
+![GATSBY_EMPTY_ALT](./pictures/friendsCafe.jpg)
 
 &nbsp;
 
@@ -72,8 +72,8 @@ You can get there on foot, and it will take you around 30 minutes. Enjoy the cit
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
-![GATSBY_EMPTY_ALT](./iconClock.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -91,7 +91,7 @@ You can get there on foot, and it will take you around 30 minutes. Enjoy the cit
 
 ### ✈ The Old Bazar
 
-![GATSBY_EMPTY_ALT](./oldBazar.jpg)
+![GATSBY_EMPTY_ALT](./pictures/oldBazar.jpg)
 
 &nbsp;
 
@@ -111,8 +111,8 @@ You can find the best and most diverse collections of Ottoman architecture in th
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
-![GATSBY_EMPTY_ALT](./iconTicket.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket.png)
 
 </div>
 
@@ -128,11 +128,11 @@ Free
 
 ##### ✈ Vodno Mountain , Lake of Matka and Cave (TOUR)
 
-![GATSBY_EMPTY_ALT](./vodno.jpg)
+![GATSBY_EMPTY_ALT](./pictures/vodno.jpg)
 
-![GATSBY_EMPTY_ALT](./lakeMatka.jpg)
+![GATSBY_EMPTY_ALT](./pictures/lakeMatka.jpg)
 
-![GATSBY_EMPTY_ALT](./caveSkopje.jpg)
+![GATSBY_EMPTY_ALT](./pictures/caveSkopje.jpg)
 
 &nbsp;
 
@@ -156,8 +156,8 @@ Overall, Vodno is a great place for a picnic or to spend the day in Skopje. It's
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
-![GATSBY_EMPTY_ALT](./iconTicket.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -175,7 +175,7 @@ Overall, Vodno is a great place for a picnic or to spend the day in Skopje. It's
 
 ##### ✈ The Mother Teresa Memorial House
 
-![GATSBY_EMPTY_ALT](./motherTeresa.jpg)
+![GATSBY_EMPTY_ALT](./pictures/motherTeresa.jpg)
 
 &nbsp;
 
@@ -195,9 +195,9 @@ Inside, you'll find memorabilia, photos, and documents that chronicle her work a
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
-![GATSBY_EMPTY_ALT](./iconTicket.png)
-![GATSBY_EMPTY_ALT](./iconClock.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -217,7 +217,7 @@ Monday – Friday 09:00 – 20:00 / Saturday – Sunday 09:00 – 14:00
 
 ###### ✈ Stone Bridge
 
-![GATSBY_EMPTY_ALT](./stoneBridge.jpg)
+![GATSBY_EMPTY_ALT](./pictures/stoneBridge.jpg)
 
 &nbsp;
 
@@ -233,7 +233,7 @@ It was first built under the rule of the Roman emperor Justinian but was destroy
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
 
 </div>
 
@@ -246,7 +246,7 @@ It was first built under the rule of the Roman emperor Justinian but was destroy
 
 ###### ✈ The Art Bridge
 
-![GATSBY_EMPTY_ALT](./artBridge.jpg)
+![GATSBY_EMPTY_ALT](./pictures/artBridge.jpg)
 
 &nbsp;
 
@@ -262,7 +262,7 @@ The Art Bridge was built in 2014 as part of the Skopje 2014 project.
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
 
 </div>
 
@@ -276,7 +276,7 @@ The Art Bridge was built in 2014 as part of the Skopje 2014 project.
 
 ###### ✈ The Skopje Fortress
 
-![GATSBY_EMPTY_ALT](./skopjeFrotress.jpg)
+![GATSBY_EMPTY_ALT](./pictures/skopjeFrotress.jpg)
 
 &nbsp;
 
@@ -296,9 +296,9 @@ The lighting of Kale Fortress provides a peaceful and serene dignity at night.
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
-![GATSBY_EMPTY_ALT](./iconTicket.png)
-![GATSBY_EMPTY_ALT](./iconClock.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./iconTicket.png) -->
 
@@ -318,7 +318,7 @@ Monday – Friday 09:00am – 7:00pm
 
 ###### ✈ Skopje City Park
 
-![GATSBY_EMPTY_ALT](./cityPark.jpg)
+![GATSBY_EMPTY_ALT](./pictures/cityPark.jpg)
 
 &nbsp;
 
@@ -338,7 +338,7 @@ Nearby is the Skopje Zoo, and the ticket costs only 1 euro. If you enjoy this to
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets//iconLocation.png)
 
 </div>
 
@@ -352,7 +352,7 @@ Nearby is the Skopje Zoo, and the ticket costs only 1 euro. If you enjoy this to
 
 ###### ✈ Woman Warrior Park
 
-![GATSBY_EMPTY_ALT](./womanWarriorPark.jpg)
+![GATSBY_EMPTY_ALT](./pictures/womanWarriorPark.jpg)
 
 &nbsp;
 
@@ -368,7 +368,7 @@ There are many monuments here, including the Woman Warrior monument placed in 19
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
 
 </div>
 
@@ -382,7 +382,7 @@ There are many monuments here, including the Woman Warrior monument placed in 19
 
 ###### ✈ Macedonia Gate
 
-![GATSBY_EMPTY_ALT](./macedoniaGate.jpg)
+![GATSBY_EMPTY_ALT](./pictures/macedoniaGate.jpg)
 
 &nbsp;
 
@@ -402,7 +402,7 @@ Walk around the arch to admire the artworks in alabaster and gold, or you can en
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
 
 </div>
 
@@ -416,7 +416,7 @@ Walk around the arch to admire the artworks in alabaster and gold, or you can en
 
 ###### ✈ Macedonian Orthodox Church of Saint Clement of Ohrid
 
-![GATSBY_EMPTY_ALT](./orthodoxChurch.jpg)
+![GATSBY_EMPTY_ALT](./pictures/orthodoxChurch.jpg)
 
 &nbsp;
 
@@ -430,8 +430,8 @@ Completed in 1990 by the Macedonian architect Slavko Brezovski, the church compr
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
-![GATSBY_EMPTY_ALT](./iconClock.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconClock.png)
 
 </div>
 
@@ -447,7 +447,7 @@ Monday – Friday 09:00am – 8:00pm
 
 ###### ✈ Mustafa Paša
 
-![GATSBY_EMPTY_ALT](./mustafaPasa.jpg)
+![GATSBY_EMPTY_ALT](./pictures/mustafaPasa.jpg)
 
 &nbsp;
 
@@ -471,8 +471,8 @@ In a word, the design is elegant, with all the alabaster domes, beautiful founta
 
 <div class="container-icons-imagens">
 
-![GATSBY_EMPTY_ALT](./iconLocation.png)
-![GATSBY_EMPTY_ALT](./iconTicket.png)
+![GATSBY_EMPTY_ALT](./assets/iconLocation.png)
+![GATSBY_EMPTY_ALT](./assets/iconTicket.png)
 
 </div>
 
@@ -488,7 +488,7 @@ Free
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./separator2.png)
+![GATSBY_EMPTY_ALT](./assets/separator2.png)
 
 &nbsp;
 
@@ -517,7 +517,7 @@ _See here if you need [luggage storage in Skopje](https://www.nannybag.com/en)._
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./separator2.png)
+![GATSBY_EMPTY_ALT](./assets/separator2.png)
 &nbsp;
 
 <div class="videos-wrapper">
@@ -528,12 +528,12 @@ _See here if you need [luggage storage in Skopje](https://www.nannybag.com/en)._
 
 &nbsp;
 
-![GATSBY_EMPTY_ALT](./separator2.png)
+![GATSBY_EMPTY_ALT](./assets/separator2.png)
 
 ###### ✈ Tours I recommend
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-excluded-tour-ids="" data-gyg-partner-id="3K1OV70" data-gyg-tour-ids="79310,465054,180203"></div>
 
 &nbsp;
-![GATSBY_EMPTY_ALT](./signature2.png)
+![GATSBY_EMPTY_ALT](./assets/signature2.png)
 &nbsp;

@@ -162,3 +162,16 @@ h6 {
     margin-right: 7px;
   }
 }
+
+@media only screen and (max-width: 547px) {
+  .map-wrapper iframe {
+    width: 20em;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .videos-wrapper iframe {
+    width: 289px;
+    height: 163px;
+  }
+}
