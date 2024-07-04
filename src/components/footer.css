@@ -3,9 +3,9 @@ footer {
 }
 
 .footer-container-wave {
-  background-image: url(/footerWave2.svg);
+  background-image: url(/footerNortheastern.svg);
   background-repeat: repeat-x;
-  height: 8em;
+  height: 19em;
   /* transform: rotateX(180deg); */
   display: flex;
   align-items: center;
@@ -16,7 +16,7 @@ footer {
   height: 25px;
   gap: 20px;
   margin-left: 50px;
-  margin-top: 30px;
+  margin-top: 12em;
 }
 
 .arrowUp-contanier {
@@ -27,7 +27,7 @@ footer {
 
 .arrowUp-style {
   height: 55px;
-  margin-top: 50px;
+  margin-top: 12em;
   margin-right: 35px;
 }
 
