@@ -110,6 +110,8 @@ h6 {
   .videos-wrapper {
     display: grid;
     justify-content: center;
+    /* width: 40em; */
+    /* width: 35em; */
   }
 
   .map-iframe {
@@ -170,6 +172,35 @@ h6 {
 }
 
 @media only screen and (max-width: 425px) {
+  .videos-wrapper iframe {
+    width: 289px;
+    height: 163px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .videos-iframe {
+    width: 300px;
+    height: 160px;
+    display: grid;
+  }
+
+  .map-wrapper iframe {
+    width: 20em;
+  }
+}
+
+@media only screen and (max-width: 420px) {
+  .map-wrapper iframe {
+    width: 20em;
+  }
+}
+@media only screen and (max-width: 390px) {
+  .videos-wrapper iframe {
+    width: 20em;
+  }
+}
+@media only screen and (max-width: 430px) {
   .videos-wrapper iframe {
     width: 289px;
     height: 163px;

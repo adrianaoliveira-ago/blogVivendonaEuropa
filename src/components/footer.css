@@ -9,6 +9,7 @@ footer {
   /* transform: rotateX(180deg); */
   display: flex;
   align-items: center;
+  margin-top: 8em;
 }
 
 .footer-social {

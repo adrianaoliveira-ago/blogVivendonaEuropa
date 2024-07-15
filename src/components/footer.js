@@ -37,7 +37,9 @@ const FooterWave = () => {
             <img
               src={IconInstagram}
               onClick={() =>
-                openLink("https://www.instagram.com/vivendo_na_europa__/?hl=de")
+                openLink(
+                  "https://www.instagram.com/a_turistinha_vivendo_na_europa/?hl=de"
+                )
               }
             ></img>
             <img
