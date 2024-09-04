@@ -1,10 +1,3 @@
-@font-face {
-  font-family: "Hattrick";
-  src: url("./fonts/Hattrick.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-}
-
 /* CSS Custom Properties Definitions */
 
 :root {
