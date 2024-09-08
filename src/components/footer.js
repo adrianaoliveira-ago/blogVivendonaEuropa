@@ -2,10 +2,10 @@ import * as React from "react"
 
 import "./footer.css"
 
-import IconYoutube from "./iconYoutube.svg"
-import IconInstagram from "./iconInstagram.svg"
-import IconFacebook from "./iconFacebook.svg"
-import ArrowUp from "./arrowUp.png"
+import IconYoutube from "../images/iconYoutube.svg"
+import IconInstagram from "../images/iconInstagram.svg"
+import IconFacebook from "../images/iconFacebook.svg"
+import ArrowUp from "../images/arrowUp.png"
 
 const openLink = link => {
   window.open(link, "_blank")
@@ -33,6 +33,7 @@ const FooterWave = () => {
                   "https://www.youtube.com/channel/UCjEbLrPRXibHwF2gn2i3Y6g"
                 )
               }
+              alt="youtube link"
             ></img>
             <img
               src={IconInstagram}
@@ -41,20 +42,19 @@ const FooterWave = () => {
                   "https://www.instagram.com/a_turistinha_vivendo_na_europa/?hl=de"
                 )
               }
+              alt="Instagram link"
             ></img>
+
             <img
               src={IconFacebook}
               onClick={() =>
                 openLink("https://www.facebook.com/Vivendo.na.Europa.ve")
               }
+              alt="facebook Link"
             ></img>
           </div>
-          <div className="arrowUp-contanier">
-            <img
-              className="arrowUp-style"
-              src={ArrowUp}
-              onClick={scrollToTop}
-            />
+          <div className="arrowUp-contanier" onClick={scrollToTop}>
+            <img className="arrowUp-style" src={ArrowUp} alt="" />
           </div>
         </div>
       </div>

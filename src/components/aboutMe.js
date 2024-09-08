@@ -1,14 +1,18 @@
 import * as React from "react"
 
 import "./aboutMe.css"
-import PhotoAboutMe from "./PhotoAboutMe.svg"
+import PhotoAboutMe from "../images/PhotoAboutMe.svg"
 
 const AboutMe = () => {
   return (
     <div className="about-me-container">
       <h2 className="about-me-title">About me</h2>
       <div className="about-me-description">
-        <img src={PhotoAboutMe} className="about-me-photo" />
+        <img
+          src={PhotoAboutMe}
+          className="about-me-photo"
+          alt="page owner profile"
+        />
         <p className="about-me-paragraph">
           Welcome to my blog! My name is Adriana, and I love sharing my travels
           and offering itinerary tips for all travelers. I also make videos

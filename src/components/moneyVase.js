@@ -1,6 +1,6 @@
 import * as React from "react"
 
-import moneyVase from "./moneyArt.png"
+import moneyVase from "../images/moneyArt.png"
 
 import "./moneyVase.css"
 
@@ -11,8 +11,12 @@ const MoneyPot = () => {
         ❤ If this guide helped you, donate a few euros to support my work.❤
       </span>
 
-      <a href="https://www.paypal.me/Aturistinha" target="_blank">
-        <img className="moneyPot-img" src={moneyVase} />
+      <a
+        href="https://www.paypal.me/Aturistinha"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img className="moneyPot-img" src={moneyVase} alt="icoon" />
       </a>
     </div>
   )
