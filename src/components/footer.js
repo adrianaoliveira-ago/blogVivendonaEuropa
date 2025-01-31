@@ -5,6 +5,7 @@ import "./footer.css"
 import IconYoutube from "../images/iconYoutube.svg"
 import IconInstagram from "../images/iconInstagram.svg"
 import IconFacebook from "../images/iconFacebook.svg"
+// import IconPlane from "../images/IconPlane.png"
 import ArrowUp from "../images/arrowUp.png"
 
 const openLink = link => {
@@ -52,6 +53,8 @@ const FooterWave = () => {
               }
               alt="facebook Link"
             ></img>
+
+            {/* <img src={IconPlane}></img> */}
           </div>
           <div className="arrowUp-contanier" onClick={scrollToTop}>
             <img className="arrowUp-style" src={ArrowUp} alt="" />

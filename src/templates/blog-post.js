@@ -10,6 +10,7 @@ import "./blog-post.css"
 import PhotoCover from "../components/photoCover"
 import Snow from "../components/snow"
 import MoneyPot from "../components/moneyVase"
+import Comments from "../components/commentsPost"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -43,6 +44,8 @@ const BlogPostTemplate = ({
         </article>
       </div>
       <MoneyPot className="blog-post-moneyPot" />
+
+      <Comments />
 
       {/* <nav className="blog-post-nav">
         <ul

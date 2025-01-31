@@ -1,0 +1,9 @@
+.gc-connected-guest {
+  color: #fbb1ba !important;
+}
+
+a:hover,
+a:focus,
+a.hover {
+  color: #fbb1ba !important;
+}
