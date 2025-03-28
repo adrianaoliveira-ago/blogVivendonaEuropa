@@ -12,6 +12,8 @@ import Snow from "../components/snow"
 import MoneyPot from "../components/moneyVase"
 import Comments from "../components/commentsPost"
 
+import Maps from "../images/maps.png"
+
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
@@ -44,6 +46,9 @@ const BlogPostTemplate = ({
         </article>
       </div>
       <MoneyPot className="blog-post-moneyPot" />
+      <div className="div-maps">
+        <img src={Maps} alt="icon" />
+      </div>
 
       <Comments />
 

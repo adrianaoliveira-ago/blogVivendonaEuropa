@@ -17,6 +17,7 @@
 }
 .moneyPot-img {
   height: 26em;
+  margin-bottom: 3em;
 }
 
 @keyframes shake {
