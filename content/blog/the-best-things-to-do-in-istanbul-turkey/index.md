@@ -223,7 +223,9 @@ The Sultan Ahmed Mosque, better known as the Blue Mosque due to the prominent co
 <div class="container-icons-imagens">
 
 ![GATSBY_EMPTY_ALT](./assets/iconLocation1.png)
+
 ![GATSBY_EMPTY_ALT](./assets/iconTicket1.png)
+
 ![GATSBY_EMPTY_ALT](./assets/iconClock1.png)
 
 <!-- ![GATSBY_EMPTY_ALT](./assets/iconTicket.png) -->
@@ -234,9 +236,13 @@ The Sultan Ahmed Mosque, better known as the Blue Mosque due to the prominent co
 
 [Blue Mosque](https://maps.app.goo.gl/VLoDsBkHH1X9GYTN6)
 
+&nbsp;
+
 Free
 
-**Open daily between** 08:30-11:30, 13:00-14:30, 15:30-16:45. Open Friday after 13:30.
+&nbsp;
+
+08:30-11:30,13:00-14:30,15:30-16:45.
 
 </div>
 
@@ -779,7 +785,6 @@ _See here if you need [luggage storage in Istanbul](https://www.nannybag.com/en)
 &nbsp;
 
 <div class="videos-wrapper">
-
 
 <iframe width="500" height="280" src="https://www.youtube.com/embed/D0HxAX9CJyc?si=AetOpyQZB41PnEJK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
