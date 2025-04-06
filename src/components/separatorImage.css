@@ -3,3 +3,9 @@
   justify-content: center;
   /* margin-top: 6em; */
 }
+
+@media only screen and (max-width: 758px) {
+  .sepator-container {
+    height: 3em;
+  }
+}

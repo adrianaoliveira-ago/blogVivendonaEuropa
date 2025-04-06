@@ -47,7 +47,7 @@ const BlogPostTemplate = ({
       </div>
       <MoneyPot className="blog-post-moneyPot" />
       <div className="div-maps">
-        <img src={Maps} alt="icon" />
+        <img src={Maps} alt="icon" className="blog-post-maps" />
       </div>
 
       <Comments />
