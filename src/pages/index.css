@@ -40,3 +40,14 @@
   justify-content: space-between;
   align-items: center;
 }
+
+@media only screen and (max-width: 414px) {
+  .index-title {
+    font-size: 30px;
+  }
+}
+@media only screen and (max-width: 430px) {
+  .index-title {
+    font-size: 35px;
+  }
+}

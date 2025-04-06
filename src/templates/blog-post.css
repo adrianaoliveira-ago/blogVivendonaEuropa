@@ -165,7 +165,7 @@ h6 {
   }
 
   .blog-post-section p {
-    margin: 12px;
+    margin: 16px;
   }
   .container-icons-imagens {
     width: 55px !important;
@@ -227,5 +227,18 @@ h6 {
   .videos-wrapper iframe {
     width: 289px;
     height: 163px;
+  }
+  .blog-post-maps {
+    height: 16em;
+  }
+  .blog-post-section p {
+    margin: 16px;
+  }
+
+  .container-icons-imagens {
+    width: 3.8em !important;
+  }
+  .blog-post-container {
+    padding-top: 0em;
   }
 }
