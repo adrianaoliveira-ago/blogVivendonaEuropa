@@ -61,3 +61,9 @@ footer {
     transform: translate3d(4px, 0, 0);
   }
 }
+
+@media only screen and (max-width: 430px) {
+  .footer-social {
+    margin-top: 5em;
+  }
+}
