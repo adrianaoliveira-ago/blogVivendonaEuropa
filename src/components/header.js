@@ -13,7 +13,7 @@ const NavLinks = () => {
 
     {
       name: "Instagram",
-      link: "https://www.instagram.com/a_turistinha_vivendo_na_europa/",
+      link: "https://www.instagram.com/a_turistinha/?hl=de",
     },
 
     {
