@@ -184,7 +184,21 @@ h6 {
     width: 20em;
   }
 }
-
+@media only screen and (max-width: 320px) {
+  .videos-wrapper iframe {
+    width: 289px;
+    height: 163px;
+  }
+  .blog-post-maps {
+    height: 13em;
+  }
+  .blog-post-container {
+    padding-top: 0em;
+  }
+  .footer-social {
+    margin-top: 5em;
+  }
+}
 @media only screen and (max-width: 425px) {
   .videos-wrapper iframe {
     width: 289px;
